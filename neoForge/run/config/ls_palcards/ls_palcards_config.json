@@ -1,0 +1,8 @@
+{
+  "workstation": {
+    "sort_recipes": true,
+    "preview": true,
+    "search_bar_mode": "AUTOMATIC",
+    "search_bar_threshold": 32
+  }
+}

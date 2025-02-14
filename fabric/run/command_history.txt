@@ -1,0 +1,37 @@
+/time set midnight
+/time set day
+/modconfig
+/lyivxfurniture config
+/lyivxfurniture
+/lyivx_furniture_config
+/modconfig
+/setblock 0 -60 3 ls_palcards:oak_sofa[facing= east ]
+/setblock 0 -60 3 ls_palcards:oak_sofa[facing= east]
+/setblock 0 -60 3 ls_palcards:oak_sofa[facing= east, type= single , waterlogged= false]
+/setblock 0 -60 3 ls_palcards:oak_sofa[ waterlogged= false]
+/setblock 0 -60 3 ls_palcards:oak_sofa[ color= default]
+/time set night
+/playsound minecraft:block.amethyst_block.chime
+/playsound minecraft:block.amethyst_block.chime player @s
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 1
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 10
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 15
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 20
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 100
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 1
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 10 10
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 10 2
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 10 0.1
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 10 0.0001
+/playsound minecraft:block.amethyst_block.chime player @s 3.54 -60.00 3.10 10 0.1
+/gamerule doDaylightCycle false
+/gamerule doWeatherCycle false#
+/gamerule doWeatherCycle false
+/gamerule doMobSpawning false
+/kill @e
+/gamerule doMobSpawning false
+/gamerule doWeatherCycle false
+/gamerule doDaylightCycle false
+/time set day
+/kill @e
+/lyivxs_mods_config

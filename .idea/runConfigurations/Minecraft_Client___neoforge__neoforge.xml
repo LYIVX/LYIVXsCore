@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" factoryName="Application" name="Minecraft Client (:neoforge)" type="Application">
+    <envs>
+      <env name="MOD_CLASSES" value="main%%D:\WorkSpaces\LYIVXs Furniture Mod 1.21\neoforge\build\resources\main;main%%D:\WorkSpaces\LYIVXs Furniture Mod 1.21\neoforge\build\classes\java\main"/>
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="dev.architectury.transformer.TransformerRuntime"/>
+    <module name="LYIVXsCore.neoforge.main"/>
+    <shortenClasspath name="ARGS_FILE"/>
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neoforge/run/"/>
+    <method v="2">
+      <option enabled="true" name="Make"/>
+    </method>
+  <classpathModifications/></configuration>
+</component>

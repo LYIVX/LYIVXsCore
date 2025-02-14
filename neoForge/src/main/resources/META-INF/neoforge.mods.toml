@@ -1,0 +1,44 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+license = "All Rights Reserved"
+issueTrackerURL = "https://github.com/LYIVX/LYIVXS-Furniture-Mod/issues"
+
+[[mods]]
+modId = "ls_core"
+version = "1.0.4-SNAPSHOT"
+displayName = "LYIVX's Pal Cards"
+authors = "LYIVX"
+description = "A Vanilla Styled Furniture Mod"
+displayURL = "https://modrinth.com/mod/lyivxs-furniture"
+
+
+[[dependencies.ls_core]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.ls_core]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.ls_core]]
+modId = "resourcefullib"
+type = "required"
+versionRange = "[1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.ls_core]]
+modId = "architectury"
+type = "required"
+versionRange = "[*,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "LYIVXsCore-common.mixins.json"

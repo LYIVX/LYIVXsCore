@@ -1,0 +1,11 @@
+{
+  "furniture_mod": {
+    "sort_recipes": true,
+    "preview": true,
+    "search_bar_mode": "AUTOMATIC",
+    "search_bar_threshold": 32
+  },
+  "chiseld_blocks": {
+    "connected": true
+  }
+}

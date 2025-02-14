@@ -1,0 +1,31 @@
+{
+  "config.ls_core.title": "LYIVXs Mods",
+  "config.ls_core.general": "General",
+  "config.ls_core.furniture_mod": "Furniture Mod",
+  "config.ls_core.chiseld_blocks": "Chiseld Blocks",
+  "config.ls_core.pal_cards": "Pal Cards",
+  "config.ls_core.misc": "Misc",
+  "config.ls_core.reset": "Reset",
+
+  "config.ls_core.sort_recipes": "Sort Recipes",
+  "config.ls_core.sort_recipes.tooltip": "Sort Recipes Following Creative Tab Order.",
+
+  "config.ls_core.search_bar_mode": "Search Bar Mode",
+  "config.ls_core.search_bar_mode.tooltip": "Determines When And How The Search Bar Should Show And Behave",
+
+  "config.ls_core.search_bar_threshold": "Search Bar Threshold",
+  "config.ls_core.search_bar_threshold.tooltip": "At How Many Recipes The Search Bar Should Appear When In §eDYNAMIC§r Mode.",
+
+  "config.ls_core.preview": "Preview",
+  "config.ls_core.preview.tooltip": "To Show And Hide The Preview Tab.",
+
+  "config.ls_core.search_mode.off": "Off",
+  "config.ls_core.search_mode.on": "On",
+  "config.ls_core.search_mode.automatic": "Automatic",
+  "config.ls_core.search_mode.dynamic": "Dynamic",
+
+
+  "config.ls_core.connected": "Connected",
+  "config.ls_core.connected.tooltip": "If Connected Textures Should Be Enabled"
+
+}

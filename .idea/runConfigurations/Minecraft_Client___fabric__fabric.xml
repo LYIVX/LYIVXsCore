@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" factoryName="Application" name="Minecraft Client (:fabric)" singleton="true" type="Application">
+    <option name="MAIN_CLASS_NAME" value="dev.architectury.transformer.TransformerRuntime"/>
+    <module name="LYIVXsCore.fabric.main"/>
+    <shortenClasspath name="ARGS_FILE"/>
+    <option name="VM_PARAMETERS" value="-Dfabric.dli.config=D:\WorkSpaces\LYIVXs@@0020Furniture@@0020Mod@@00201.21\fabric\.gradle\loom-cache\launch.cfg -Dfabric.dli.env=client -Dfabric.dli.main=net.fabricmc.loader.impl.launch.knot.KnotClient &quot;-Darchitectury.main.class=D:\WorkSpaces\LYIVXs Furniture Mod 1.21\fabric\.gradle\architectury\.main_class&quot; &quot;-Darchitectury.runtime.transformer=D:\WorkSpaces\LYIVXs Furniture Mod 1.21\fabric\.gradle\architectury\.transforms&quot; &quot;-Darchitectury.properties=D:\WorkSpaces\LYIVXs Furniture Mod 1.21\fabric\.gradle\architectury\.properties&quot; -Djdk.attach.allowAttachSelf=true &quot;-javaagent:D:\WorkSpaces\LYIVXs Furniture Mod 1.21\.gradle\architectury\architectury-transformer-agent.jar&quot;"/>
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fabric/run/"/>
+    <method v="2">
+      <option enabled="true" name="Make"/>
+    </method>
+  <classpathModifications/></configuration>
+</component>

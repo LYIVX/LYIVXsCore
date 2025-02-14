@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/LYIVXsCore.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXsCore.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/LYIVXsCore.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXsCore.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsCore.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsCore.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsCore.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsCore.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/LYIVXsPalCards.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/LYIVXsPalCards.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/LYIVXsPalCards.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/LYIVXsPalCards.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/LYIVXsPalCards.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/LYIVXsPalCards.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/LYIVXsPalCards.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXsPalCards.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/LYIVXsPalCards.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXsPalCards.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsPalCards.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsPalCards.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsPalCards.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsPalCards.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/LYIVXs_Furniture_Mod_1.21.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/LYIVXs_Furniture_Mod_1.21.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/LYIVXs_Furniture_Mod_1.21.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/LYIVXs_Furniture_Mod_1.21.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/LYIVXs_Furniture_Mod_1.21.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/LYIVXs_Furniture_Mod_1.21.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/LYIVXs_Furniture_Mod_1.21.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXs_Furniture_Mod_1.21.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/LYIVXs_Furniture_Mod_1.21.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXs_Furniture_Mod_1.21.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/LYIVXs_Furniture_Mod_1.21.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXs_Furniture_Mod_1.21.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/LYIVXs_Furniture_Mod_1.21.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXs_Furniture_Mod_1.21.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
