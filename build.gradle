@@ -41,6 +41,11 @@ allprojects {
                 from components.java
             }
         }
+        repositories {
+            maven {
+                url = uri("https://jitpack.io") // For JitPack
+            }
+        }
     }
 
     archivesBaseName = rootProject.archives_base_name

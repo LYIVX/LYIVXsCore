@@ -1,5 +1,6 @@
 plugins {
     id "com.github.johnrengelman.shadow" version "8.1.1"
+    id 'maven-publish'
 }
 
 architectury {
@@ -72,14 +73,20 @@ components.java {
 
 publishing {
     publications {
-        mavenForge(MavenPublication) {
-            artifactId = rootProject.archives_base_name + "-" + project.name
+        // Regular Maven publication for the main JAR
+        mavenJava(MavenPublication) {
             from components.java
+        }
+
+        // Separate Maven publication for the Shadow JAR
+        mavenShadow(MavenPublication) {
+            artifact shadowJar.archiveFile
         }
     }
 
-    // See https://docs.gradle.org/current/userguide/publishing_maven.html for information on how to set up publishing.
     repositories {
-
+        maven {
+            url = uri("https://jitpack.io") // For JitPack
+        }
     }
 }
