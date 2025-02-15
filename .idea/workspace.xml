@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25ecd3aa-dddd-4311-95c1-6d6e6dfdfb00" name="Changes" comment="Realse">
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/common/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neoForge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/neoForge/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +129,7 @@
     "Gradle.LYIVXs Furniture Mod 1.21:fabric [build].executor": "Run",
     "Gradle.LYIVXs Furniture Mod 1.21:neoforge [build].executor": "Run",
     "Gradle.LYIVXs Furniture Mod 1.21:neoforge [runClient].executor": "Run",
+    "Gradle.LYIVXsCore:common [clean].executor": "Run",
     "Gradle.LYIVXsCore:fabric [build].executor": "Run",
     "Gradle.LYIVXsCore:fabric [runClient].executor": "Run",
     "Gradle.LYIVXsCore:neoforge [build].executor": "Run",
@@ -171,6 +167,28 @@
     </key>
   </component>
   <component name="RunManager" selected="Gradle.LYIVXsCore:neoforge [build]">
+    <configuration name="LYIVXsCore:common [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/common" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="LYIVXsCore:fabric [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -183,28 +201,6 @@
         <option name="taskNames">
           <list>
             <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="LYIVXsCore:fabric [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/fabric" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="runClient" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -286,19 +282,19 @@
       <item itemvalue="Application.Minecraft Client (:neoforge)" />
       <item itemvalue="Application.Minecraft Server (:fabric)" />
       <item itemvalue="Application.Minecraft Server (:neoforge)" />
+      <item itemvalue="Gradle.LYIVXsCore:common [clean]" />
       <item itemvalue="Gradle.LYIVXsCore:neoforge [build]" />
       <item itemvalue="Gradle.LYIVXsCore:fabric [build]" />
       <item itemvalue="Gradle.LYIVXsPalCards [transformProductionFabric]" />
       <item itemvalue="Gradle.LYIVXsPalCards [transformProductionNeoForge]" />
-      <item itemvalue="Gradle.LYIVXsCore:fabric [runClient]" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.LYIVXsCore:neoforge [build]" />
+        <item itemvalue="Gradle.LYIVXsCore:common [clean]" />
         <item itemvalue="Gradle.LYIVXsCore:fabric [build]" />
         <item itemvalue="Gradle.LYIVXsPalCards [transformProductionNeoForge]" />
         <item itemvalue="Gradle.LYIVXsPalCards [transformProductionFabric]" />
-        <item itemvalue="Gradle.LYIVXsCore:fabric [runClient]" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +339,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739579439150</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Realse">
+      <option name="closed" value="true" />
+      <created>1739583706979</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739583706979</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Realse">
+      <option name="closed" value="true" />
+      <created>1739583752989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739583752989</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
