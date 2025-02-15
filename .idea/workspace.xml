@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25ecd3aa-dddd-4311-95c1-6d6e6dfdfb00" name="Changes" comment="Realse">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore.common.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/common/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoForge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/neoForge/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +50,24 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
+                <item name="common" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
+                <item name="common" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
+                <item name="common" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -285,6 +311,39 @@
       <option name="presentableId" value="Default" />
       <updated>1727374190960</updated>
     </task>
+    <task id="LOCAL-00001" summary="Realse">
+      <option name="closed" value="true" />
+      <created>1739577538125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739577538125</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Realse">
+      <option name="closed" value="true" />
+      <created>1739577546127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739577546127</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Realse">
+      <option name="closed" value="true" />
+      <created>1739578429902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739578429902</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Realse">
+      <option name="closed" value="true" />
+      <created>1739579439150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739579439150</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
