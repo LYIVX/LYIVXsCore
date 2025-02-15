@@ -1,18 +1,13 @@
 plugins {
     id "architectury-plugin" version "3.4-SNAPSHOT"
     id "dev.architectury.loom" version "1.7-SNAPSHOT" apply false
-    id 'maven-publish'
 }
-
-group = 'net.lyivx'
-version = rootProject.mod_version
 
 architectury {
     minecraft = rootProject.minecraft_version
 }
 
 subprojects {
-    apply(plugin: "maven-publish")
     apply plugin: "dev.architectury.loom"
 
     loom {
@@ -49,14 +44,7 @@ allprojects {
         }
 
         mavenLocal()
-        mavenCentral()
-        maven {
-            url = uri("https://jitpack.io")
-            credentials {
-                username = project.findProperty("jitpack.username") ?: System.getenv("JITPACK_USERNAME")
-                password = project.findProperty("jitpack.token") ?: System.getenv("JITPACK_TOKEN")
-            }
-        }
+
 
         maven {
             url "https://nexus.resourcefulbees.com/repository/maven-public/"
@@ -106,12 +94,5 @@ allprojects {
 
     java {
         withSourcesJar()
-    }
-}
-publishing {
-    publications {
-        mavenJava(MavenPublication) {
-            from components.java
-        }
     }
 }
