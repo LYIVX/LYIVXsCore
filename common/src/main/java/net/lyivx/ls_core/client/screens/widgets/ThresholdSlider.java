@@ -1,16 +1,22 @@
 package net.lyivx.ls_core.client.screens.widgets;
 
-import net.lyivx.ls_core.common.config.Configs;
 import net.minecraft.client.gui.components.AbstractSliderButton;
 import net.minecraft.network.chat.Component;
 import net.minecraft.util.Mth;
 
+import java.util.function.IntConsumer;
+import java.util.function.IntSupplier;
+
 public class ThresholdSlider extends AbstractSliderButton {
 
     public static final int MAX_THRESHOLD = 200;
+    private final IntSupplier getter;
+    private final IntConsumer setter;
 
-    public ThresholdSlider(int x, int y, int width, int height, Component message, double value) {
-        super(x, y, width, height, message, value);
+    public ThresholdSlider(int x, int y, int width, int height, Component message, IntSupplier getter, IntConsumer setter) {
+        super(x, y, width, height, message, Mth.clamp((double) getter.getAsInt() / MAX_THRESHOLD, 0.0, 1.0));
+        this.getter = getter;
+        this.setter = setter;
         this.updateMessage();
     }
 
@@ -21,16 +27,10 @@ public class ThresholdSlider extends AbstractSliderButton {
 
     @Override
     protected void applyValue() {
-        Configs.SEARCH_BAR_THRESHOLD = getThreshold();
+        setter.accept(getThreshold());
     }
 
     public int getThreshold() {
         return (int) (this.value * MAX_THRESHOLD);
-    }
-
-    public void setValueFromThreshold(int threshold) {
-        this.value = Mth.clamp( (double) threshold / MAX_THRESHOLD, 0.0, 1.0);
-        this.updateMessage();
-        this.applyValue();
     }
 }

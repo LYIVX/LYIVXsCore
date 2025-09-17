@@ -1,15 +1,15 @@
 modLoader = "javafml"
 loaderVersion = "[2,)"
 license = "All Rights Reserved"
-issueTrackerURL = "https://github.com/LYIVX/LYIVXS-Furniture-Mod/issues"
+issueTrackerURL = "https://github.com/LYIVX/LYIVXsCore/issues"
 
 [[mods]]
 modId = "ls_core"
-version = "1.0.4-SNAPSHOT"
-displayName = "LYIVX's Pal Cards"
+version = "1.1.5"
+displayName = "LYIVX's Core"
 authors = "LYIVX"
-description = "A Vanilla Styled Furniture Mod"
-displayURL = "https://modrinth.com/mod/lyivxs-furniture"
+description = "A Core Mod For LYIVX's Mods"
+displayURL = "https://modrinth.com/mod/lyivxs-core"
 
 
 [[dependencies.ls_core]]

@@ -1,0 +1,84 @@
+{
+  "category": "getting_started",
+  "title": "Crafting Examples",
+  "iconType": "ITEM",
+  "icon": "minecraft:book",
+  "pages": [
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "Basic Crafting Examples",
+          "text": "This page demonstrates various crafting techniques and recipes from different crafting systems. Each example shows how the different crafting stations work together to create useful items.\n\nThe [[entry:crafting_table:crafting table]] is used for basic item creation, while specialized stations like the [[entry:furnace:furnace]] and [[entry:brewing_stand:brewing stand]] handle specific types of processing. Understanding these differences helps you choose the right tool for each crafting task."
+        },
+        { 
+          "type": "showcase", 
+          "items": ["minecraft:diamond_sword"] 
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "type": "recipe",
+          "title": "Crafting Table Recipe",
+          "recipeType": "crafting",
+          "recipeId": "minecraft:ladder"
+        },
+        {
+          "type": "recipe",
+          "title": "Furnace Smelting",
+          "recipeType": "smelting",
+          "recipeId": "minecraft:iron_ingot_from_smelting_raw_iron"
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Specialized Smelting",
+          "recipeType": "smoking", 
+          "recipeId": "minecraft:cooked_beef_from_smoking" 
+        },
+        { 
+          "type": "recipe", 
+          "title": "High-Speed Ore Processing",
+          "recipeType": "blasting", 
+          "recipeId": "minecraft:copper_ingot_from_blasting_raw_copper" 
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Equipment Enhancement",
+          "recipeType": "smithing", 
+          "items": ["minecraft:netherite_upgrade_smithing_template", "minecraft:diamond_sword", "minecraft:netherite_ingot", "minecraft:netherite_sword"] 
+        },
+        { 
+          "type": "recipe", 
+          "title": "Magical Brewing",
+          "recipeType": "brewing", 
+          "items": ["minecraft:ghast_tear", "minecraft:awkward_potion", "minecraft:potion{Potion:regeneration}"] 
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Stone Processing",
+          "recipeType": "stonecutting", 
+          "recipeId": "minecraft:stone_bricks_from_stone_stonecutting" 
+        },
+        { 
+          "type": "text", 
+          "title": "Crafting System Integration",
+          "text": "These examples demonstrate how different crafting systems work together. The [[entry:crafting_table:crafting table]] creates the basic stations, which then process materials for use in more advanced crafting.\n\nFor example, the crafting table creates the [[entry:furnace:furnace]], which smelts ores into ingots. These ingots are then used by the [[entry:smithing_table:smithing table]] to create enhanced equipment. This progression system provides clear goals and rewards for mastering each crafting system.\n\nExplore the [[category:crafting_systems:Crafting Systems]] category to learn more about each individual station and how they can be optimized for your specific needs."
+        }
+      ]
+    }
+  ]
+}

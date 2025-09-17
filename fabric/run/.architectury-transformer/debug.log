@@ -1,53 +1,65 @@
 [Architectury Transformer] Architectury Runtime 5.2.87
-[Architectury Transformer DEBUG] Closed File Systems for D:\WorkSpaces\LYIVXsCore\common\build\devlibs\ls_core-1.0.0-SNAPSHOT-dev.jar
+[Architectury Transformer DEBUG] Closed File Systems for E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar
 [Architectury Transformer DEBUG] Preparing tiny remapper prepared transformer: dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Provided 114 classpath jar(s):
+[Architectury Transformer DEBUG] Provided 124 classpath jar(s):
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\dev.architectury\architectury-injectables\1.0.10\62db2a366d662606d1b23ad02ccc3212ed37ec3\architectury-injectables-1.0.10.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.fabricmc\fabric-loader\0.16.10\dbd932c2a3641d2c41cf9abfe47e140a5753fa86\fabric-loader-0.16.10.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.fabricmc\fabric-loader\0.17.2\647622ac4163aad5ed5f79ccb532e31225562aa\fabric-loader-0.17.2.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\24.1.0\7af6a669488450c4a07c2c3254e2151df42d7d04\annotations-24.1.0.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.6\aa205cf0a06dbd8e04ece91c0b37c3f5d567546a\asm-9.6.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.6\9ce6c7b174bd997fc2552dff47964546bd7a5ec3\asm-analysis-9.6.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.6\f1a9e5508eff490744144565c47326c8648be309\asm-commons-9.6.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.6\c0cdda9d211e965d2a4448aa3fd86110f2f8c2de\asm-tree-9.6.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.6\f77caf84eb93786a749b2baa40865b9613e3eaee\asm-util-9.6.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.fabricmc\sponge-mixin\0.15.3+mixin.0.8.7\51ee0a44ab05f6fddd66b09e66b3a16904f9c55d\sponge-mixin-0.15.3+mixin.0.8.7.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.7.1\f0ed132a49244b042cd0e15702ab9f2ce3cc8436\asm-9.7.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.7.1\f97a3b319f0ed6a8cd944dc79060d3912a28985f\asm-analysis-9.7.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.7.1\406c6a2225cfe1819f102a161e54cc16a5c24f75\asm-commons-9.7.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.7.1\3a53139787663b139de76b627fca0084ab60d32c\asm-tree-9.7.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.7.1\9e23359b598ec6b74b23e53110dd5c577adf2243\asm-util-9.7.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.fabricmc\sponge-mixin\0.15.4+mixin.0.8.7\6a12aacc794f1078458433116e9ed42c1cc98096\sponge-mixin-0.15.4+mixin.0.8.7.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-fabric\0.4.1\8d1a9e96afb990367fa1f904d17580d164da72e3\mixinextras-fabric-0.4.1.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.4.10\b1d8ab82d11d92fd639b56d639f8f46f739dd5fa\oshi-core-6.4.10.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.10.1\b3add478d4382b78ea20b1671390a858002feb6c\gson-2.10.1.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b0849546c88bac1292c9\failureaccess-1.0.1.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\32.1.2-jre\5e64ec7e056456bef3a4bc4c6fdaef71e8ab6318\guava-32.1.2-jre.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\73.2\61ad4ef7f9131fcf6d25c34b817f90d6da06c9e9\icu4j-73.2.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\6.0.54\de8bc95660e1b2fe8793fd427a7a10dcec5b3ea7\authlib-6.0.54.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.13.4\858c6cc78e1f08a885b1613e1d817c829df70a6e\jackson-annotations-2.13.4.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.13.4\cf934c681294b97ef6d80082faeefbe1edadf56\jackson-core-2.13.4.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.13.4.2\325c06bdfeb628cfb80ebaaf1a26cc1eb558a585\jackson-databind-2.13.4.2.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.6.5\e1099981fd15dc4236c4499d82aba1276fb43a9a\oshi-core-6.6.5.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.github.stephenc.jcip\jcip-annotations\1.0-1\ef31541dd28ae2cefdd17c7ebf352d93e9058c63\jcip-annotations-1.0-1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.11.0\527175ca6d81050b53bdd4c457a6d6e017626b0e\gson-2.11.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.2\c4a06a64e650562f30b7bf9aaec1bfed43aca12b\failureaccess-1.0.2.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\33.3.1-jre\852f8b363da0111e819460021ca693cacca3e8db\guava-33.3.1-jre.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\76.1\215f3a8e936d4069344bd75f2b1368fd58112894\icu4j-76.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\msal4j\1.17.2\a6211e3d71d0388929babaa0ff0951b30d001852\msal4j-1.17.2.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\6.0.57\bded3161a7346de32213da750388ec6529fe4f6b\authlib-6.0.57.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\blocklist\1.0.10\5c685c5ffa94c4cd39496c7184c1d122e515ecef\blocklist-1.0.10.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.2.9\73e324f2ee541493a5179abf367237faa782ed21\brigadier-1.2.9.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.3.10\d15b53a14cf20fdcaa98f731af5dda654452c010\brigadier-1.3.10.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\8.0.16\67d4de6d7f95d89bcf5862995fb854ebaec02a34\datafixerupper-8.0.16.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\logging\1.2.7\24cb95ffb0e3433fd6e844c04e68009e504ca1c0\logging-1.2.7.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\jtracy\1.0.29\6f07dcb6a2e595c7ee2ca43b67e5d1c018ca0770\jtracy-1.0.29.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\logging\1.5.10\9ab1202793717af9df9c1704d0a02892067001eb\logging-1.5.10.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\2.2.10\da05971b07cbb379d002cf7eaec6a2048211fefc\patchy-2.2.10.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.17.9\3cad216e3a7f0c19b4b394388bc9ffc446f13b14\text2speech-1.17.9.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.16.0\4e3eb3d79888d76b54e28b350915b5dc3919c9de\commons-codec-1.16.0.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.15.1\f11560da189ab563a5c8e351941415430e9304ea\commons-io-2.15.1.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.97.Final\f8f3d8644afa5e6e1a40a3a6aeb9d9aa970ecb4f\netty-buffer-4.1.97.Final.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.97.Final\384ba4d75670befbedb45c4d3b497a93639c206d\netty-codec-4.1.97.Final.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.97.Final\7cceacaf11df8dc63f23d0fb58e9d4640fc88404\netty-common-4.1.97.Final.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.97.Final\abb86c6906bf512bf2b797a41cd7d2e8d3cd7c36\netty-handler-4.1.97.Final.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.97.Final\cec8348108dc76c47cf87c669d514be52c922144\netty-resolver-4.1.97.Final.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.97.Final\795da37ded759e862457a82d9d92c4d39ce8ecee\netty-transport-classes-epoll-4.1.97.Final.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.97.Final\d469d84265ab70095b01b40886cabdd433b6e664\netty-transport-native-unix-common-4.1.97.Final.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.97.Final\f37380d23c9bb079bc702910833b2fd532c9abd0\netty-transport-4.1.97.Final.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.12\c24946d46824bd528054bface3231d2ecb7e95e8\fastutil-8.5.12.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.14.0\28934d48aed814f11e4c584da55c49fa7032b31b\jna-platform-5.14.0.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.14.0\67bf3eaea4f0718cb376a181a629e5f88fa1c9dd\jna-5.14.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.nimbusds\content-type\2.3\e3aa0be212d7a42839a8f3f506f5b990bcce0222\content-type-2.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.nimbusds\lang-tag\1.7\97c73ecd70bc7e8eefb26c5eea84f251a63f1031\lang-tag-1.7.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.nimbusds\nimbus-jose-jwt\9.40\42b1dfa0360e4062951b070bac52dd8d96fd7b38\nimbus-jose-jwt-9.40.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\com.nimbusds\oauth2-oidc-sdk\11.18\7c7ec4f4066625ff07a711ad856fa04da1ff9de\oauth2-oidc-sdk-11.18.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.17.1\973638b7149d333563584137ebf13a691bb60579\commons-codec-1.17.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.17.0\ddcc8433eb019fb48fe25207c0278143f3e1d7e2\commons-io-2.17.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.3.4\b9fc14968d63a8b8a8a2c1885fe3e90564239708\commons-logging-1.3.4.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.115.Final\d5daf1030e5c36d198caf7562da2441a97ec0df6\netty-buffer-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.115.Final\d326bf3a4c785b272da3db6941779a1bd5448378\netty-codec-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.115.Final\9da10a9f72e3f87e181d91b525174007a6fc4f11\netty-common-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.115.Final\d54dbf68b9d88a98240107758c6b63da5e46e23a\netty-handler-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.115.Final\e33b4d476c03975957f5d8d0319d592bf2bc5e96\netty-resolver-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.115.Final\11fea00408ecbd8b8d1f0698d708e37db4a01841\netty-transport-classes-epoll-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.115.Final\dc96c67d06cd6b5eb677f2728f27bf2e3d9a7284\netty-transport-native-unix-common-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.115.Final\39cef77c1a25908ac1abf4960c2e789f0bf70ff9\netty-transport-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.15\1e885b40c9563ab0d3899b871fd0b30e958705dc\fastutil-8.5.15.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.15.0\86b502cad57d45da172b5e3231c537b042e296ef\jna-platform-5.15.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.15.0\1ee1d80ff44f08280188f7c0e740d57207841ac\jna-5.15.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.minidev\accessors-smart\2.5.1\19b820261eb2e7de7d5bde11d1c06e4501dd7e5f\accessors-smart-2.5.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.minidev\json-smart\2.5.1\4c11d2808d009132dfbbf947ebf37de6bf266c8e\json-smart-2.5.1.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.26.0\659feffdd12280201c8aacb8f7be94f9a883c824\commons-compress-1.26.0.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.14.0\1ed471194b02f2c6cb734a0cd6f6f107c673afae\commons-lang3-3.14.0.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.13\e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada\httpclient-4.5.13.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.27.1\a19151084758e2fbb6b41eddaa88e7b8ff4e6599\commons-compress-1.27.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.17.0\b17d2136f0460dcc0d2016ceefca8723bdf4ee70\commons-lang3-3.17.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.14\1194890e6f56ec29177673f2f12d0b8e627dec98\httpclient-4.5.14.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.16\51cf043c87253c9f58b539c9f7e44c8894223850\httpcore-4.4.16.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.22.1\bea6fede6328fabafd7e68363161a7ea6605abd1\log4j-api-2.22.1.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.22.1\7183a25510a02ad00cc6a95d3b3d2a7d3c5a8dc4\log4j-core-2.22.1.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.22.1\d7e6693c2606cb7e7335047d7bb96dec52db5665\log4j-slf4j2-impl-2.22.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.24.1\7ebeb12c20606373005af4232cd0ecca72613dda\log4j-api-2.24.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.24.1\c85285146f28d8c8962384f786e2dff04172fb43\log4j-core-2.24.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.24.1\8e3ddc96464ef7f768823e7e001a52b23de8cd0a\log4j-slf4j2-impl-2.24.1.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.jcraft\jorbis\0.0.17\8872d22b293e8f5d7d56ff92be966e6dc28ebdc6\jorbis-0.0.17.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.5\22566d58af70ad3d72308bab63b8339906deb649\joml-1.10.5.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.8\fc0a71dad90a2cf41d82a76156a0e700af8e4f8d\joml-1.10.8.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-freetype\3.3.3\a0db6c84a8becc8ca05f9dbfa985edc348a824c7\lwjgl-freetype-3.3.3.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.3\efa1eb78c5ccd840e9f329717109b5e892d72f8e\lwjgl-glfw-3.3.3.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.3\b543467b7ff3c6920539a88ee602d34098628be5\lwjgl-jemalloc-3.3.3.jar
@@ -57,86 +69,95 @@
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.3\82d755ca94b102e9ca77283b9e2dc46d1b15fbe5\lwjgl-tinyfd-3.3.3.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.3\29589b5f87ed335a6c7e7ee6a5775f81f97ecb84\lwjgl-3.3.3.jar
 [Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.lz4\lz4-java\1.8.0\4b986a99445e49ea5fbf5d149c4b63f6ed6c6780\lz4-java-1.8.0.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.9\7cf2726fdcfbc8610f9a71fb3ed639871f315340\slf4j-api-2.0.9.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\minecraftMaven\net\minecraft\minecraft-merged-f11f5a7b99\1.21-loom.mappings.1_21.layered+hash.652182843-v2\minecraft-merged-f11f5a7b99-1.21-loom.mappings.1_21.layered+hash.652182843-v2.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.97.Final\54188f271e388e7f313aea995e82f58ce2cdb809\netty-transport-native-epoll-4.1.97.Final-linux-x86_64.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.97.Final\5514744c588190ffda076b35a9b8c9f24946a960\netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar
-[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\mezz.jei\jei-1.21-common-api\19.8.2.99\64b90cfcea43d70f5fc696c052ba308b6c51085e\jei-1.21-common-api-19.8.2.99.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\dev\architectury\architectury-fabric\13.0.6\architectury-fabric-13.0.6.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\com\teamresourceful\resourcefullib\resourcefullib-fabric-1.21\3.0.10\resourcefullib-fabric-1.21-3.0.10.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-api\0.102.0+1.21\fabric-api-0.102.0+1.21.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-transfer-api-v1\5.1.16+3dccd343d1\fabric-transfer-api-v1-5.1.16+3dccd343d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-api-lookup-api-v1\1.6.68+b5597344d1\fabric-api-lookup-api-v1-1.6.68+b5597344d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-blockrenderlayer-v1\1.1.52+0af3f5a7d1\fabric-blockrenderlayer-v1-1.1.52+0af3f5a7d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-client-tags-api-v1\1.1.15+6573ed8cd1\fabric-client-tags-api-v1-1.1.15+6573ed8cd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-command-api-v1\1.2.49+f71b366fd1\fabric-command-api-v1-1.2.49+f71b366fd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-commands-v0\0.2.66+df3654b3d1\fabric-commands-v0-0.2.66+df3654b3d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-command-api-v2\2.2.28+6ced4dd9d1\fabric-command-api-v2-2.2.28+6ced4dd9d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-content-registries-v0\8.0.16+b5597344d1\fabric-content-registries-v0-8.0.16+b5597344d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-data-generation-api-v1\20.2.16+16c4ae25d1\fabric-data-generation-api-v1-20.2.16+16c4ae25d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-convention-tags-v1\2.0.19+7f945d5bd1\fabric-convention-tags-v1-2.0.19+7f945d5bd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-convention-tags-v2\2.5.0+c5e2b5c6d1\fabric-convention-tags-v2-2.5.0+c5e2b5c6d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-data-attachment-api-v1\1.1.27+6a6dfa19d1\fabric-data-attachment-api-v1-1.1.27+6a6dfa19d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-entity-events-v1\1.6.12+6fc22b99d1\fabric-entity-events-v1-1.6.12+6fc22b99d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-events-interaction-v0\0.7.12+ba9dae06d1\fabric-events-interaction-v0-0.7.12+ba9dae06d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-gametest-api-v1\2.0.4+6fc22b99d1\fabric-gametest-api-v1-2.0.4+6fc22b99d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-item-api-v1\11.0.0+afdfc921d1\fabric-item-api-v1-11.0.0+afdfc921d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-item-group-api-v1\4.1.4+78017270d1\fabric-item-group-api-v1-4.1.4+78017270d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-lifecycle-events-v1\2.3.12+6c1df360d1\fabric-lifecycle-events-v1-2.3.12+6c1df360d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-loot-api-v2\3.0.14+3f89f5a5d1\fabric-loot-api-v2-3.0.14+3f89f5a5d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-loot-api-v3\1.0.2+3f89f5a5d1\fabric-loot-api-v3-1.0.2+3f89f5a5d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-message-api-v1\6.0.13+6573ed8cd1\fabric-message-api-v1-6.0.13+6573ed8cd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-model-loading-api-v1\2.0.0+fe474d6bd1\fabric-model-loading-api-v1-2.0.0+fe474d6bd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-recipe-api-v1\5.0.12+65089712d1\fabric-recipe-api-v1-5.0.12+65089712d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-screen-handler-api-v1\1.3.86+b5597344d1\fabric-screen-handler-api-v1-1.3.86+b5597344d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-registry-sync-v0\5.1.2+60c3209bd1\fabric-registry-sync-v0-5.1.2+60c3209bd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-networking-api-v1\4.2.2+60c3209bd1\fabric-networking-api-v1-4.2.2+60c3209bd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-object-builder-api-v1\15.2.0+a551f7a4d1\fabric-object-builder-api-v1-15.2.0+a551f7a4d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-particles-v1\4.0.2+6573ed8cd1\fabric-particles-v1-4.0.2+6573ed8cd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-renderer-indigo\1.7.0+c705a49cd1\fabric-renderer-indigo-1.7.0+c705a49cd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-renderer-api-v1\3.4.0+c705a49cd1\fabric-renderer-api-v1-3.4.0+c705a49cd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-rendering-fluids-v1\3.1.6+b5597344d1\fabric-rendering-fluids-v1-3.1.6+b5597344d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-renderer-registries-v1\3.2.68+df3654b3d1\fabric-renderer-registries-v1-3.2.68+df3654b3d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-rendering-v0\1.1.71+df3654b3d1\fabric-rendering-v0-1.1.71+df3654b3d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-rendering-v1\5.0.5+df16efd0d1\fabric-rendering-v1-5.0.5+df16efd0d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-screen-api-v1\2.0.24+b5597344d1\fabric-screen-api-v1-2.0.24+b5597344d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-api-base\0.4.42+6573ed8cd1\fabric-api-base-0.4.42+6573ed8cd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-biome-api-v1\13.0.29+5bd9f1bcd1\fabric-biome-api-v1-13.0.29+5bd9f1bcd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-block-api-v1\1.0.22+0af3f5a7d1\fabric-block-api-v1-1.0.22+0af3f5a7d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-rendering-data-attachment-v1\0.3.48+73761d2ed1\fabric-rendering-data-attachment-v1-0.3.48+73761d2ed1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-block-view-api-v2\1.0.10+6573ed8cd1\fabric-block-view-api-v2-1.0.10+6573ed8cd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-crash-report-info-v1\0.2.29+0af3f5a7d1\fabric-crash-report-info-v1-0.2.29+0af3f5a7d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-dimensions-v1\4.0.0+6fc22b99d1\fabric-dimensions-v1-4.0.0+6fc22b99d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-game-rule-api-v1\1.0.53+6ced4dd9d1\fabric-game-rule-api-v1-1.0.53+6ced4dd9d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-keybindings-v0\0.2.45+df3654b3d1\fabric-keybindings-v0-0.2.45+df3654b3d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-key-binding-api-v1\1.0.47+0af3f5a7d1\fabric-key-binding-api-v1-1.0.47+0af3f5a7d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-resource-conditions-api-v1\4.3.0+8dc279b1d1\fabric-resource-conditions-api-v1-4.3.0+8dc279b1d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-resource-loader-v0\1.3.0+56599129d1\fabric-resource-loader-v0-1.3.0+56599129d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-sound-api-v1\1.0.23+6573ed8cd1\fabric-sound-api-v1-1.0.23+6573ed8cd1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\net\fabricmc\fabric-api\fabric-transitive-access-wideners-v1\6.1.0+176f9036d1\fabric-transitive-access-wideners-v1-6.1.0+176f9036d1.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\com\terraformersmc\modmenu\11.0.2\modmenu-11.0.2.jar
-[Architectury Transformer DEBUG]  - D:\WorkSpaces\LYIVXsCore\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_layered_hash_652182843_v2\mezz\jei\jei-1.21-fabric-api\19.8.2.99\jei-1.21-fabric-api-19.8.2.99.jar
-[Architectury Transformer] Read classpath in 1.959 s
-[Architectury Transformer DEBUG] Closed File Systems for D:\WorkSpaces\LYIVXsCore\common\build\devlibs\ls_core-1.0.0-SNAPSHOT-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from D:\WorkSpaces\LYIVXsCore\common\build\devlibs\ls_core-1.0.0-SNAPSHOT-dev.jar to C:\Users\tommy\AppData\Local\Temp\7589281244989850347.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@32464a14
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@4e4aea35
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@1442d7b5
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@1efee8e7
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@1ee807c6
-[Architectury Transformer DEBUG] Transforming from D:\WorkSpaces\LYIVXsCore\common\build\devlibs\ls_core-1.0.0-SNAPSHOT-dev.jar to C:\Users\tommy\AppData\Local\Temp\7589281244989850347.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.16\172931663a09a1fa515567af5fbef00897d3c04\slf4j-api-2.0.16.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\minecraftMaven\net\minecraft\minecraft-merged-04171def75\1.21.4-loom.mappings.1_21_4.layered+hash.1819996326-v2\minecraft-merged-04171def75-1.21.4-loom.mappings.1_21_4.layered+hash.1819996326-v2.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.115.Final\a6cc58c4a259bad159cbb06120cea9b3474e86a0\netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar
+[Architectury Transformer DEBUG]  - C:\Users\tommy\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.115.Final\a80b32f98ceb4e27958c0ceaf22ddad9ea6c0d4e\netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\dev\architectury\architectury-fabric\15.0.3\architectury-fabric-15.0.3.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\com\teamresourceful\resourcefullib\resourcefullib-fabric-1.21.4\3.4.5\resourcefullib-fabric-1.21.4-3.4.5.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-api\0.116.1+1.21.4\fabric-api-0.116.1+1.21.4.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-transfer-api-v1\5.4.9+efa825c904\fabric-transfer-api-v1-5.4.9+efa825c904.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-api-lookup-api-v1\1.6.86+b1caf1e904\fabric-api-lookup-api-v1-1.6.86+b1caf1e904.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-blockrenderlayer-v1\2.0.8+7feeb73304\fabric-blockrenderlayer-v1-2.0.8+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-client-tags-api-v1\1.1.29+20ea1e2304\fabric-client-tags-api-v1-1.1.29+20ea1e2304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-command-api-v1\1.2.62+f71b366f04\fabric-command-api-v1-1.2.62+f71b366f04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-commands-v0\0.2.79+df3654b304\fabric-commands-v0-0.2.79+df3654b304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-command-api-v2\2.2.41+e496eb1504\fabric-command-api-v2-2.2.41+e496eb1504.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-content-registries-v0\9.1.17+7feeb73304\fabric-content-registries-v0-9.1.17+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-data-generation-api-v1\22.2.10+20ea1e2304\fabric-data-generation-api-v1-22.2.10+20ea1e2304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-convention-tags-v1\2.1.15+7f945d5b04\fabric-convention-tags-v1-2.1.15+7f945d5b04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-convention-tags-v2\2.12.1+e359e31604\fabric-convention-tags-v2-2.12.1+e359e31604.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-data-attachment-api-v1\1.5.2+2d7e411e04\fabric-data-attachment-api-v1-1.5.2+2d7e411e04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-entity-events-v1\2.0.13+1934821104\fabric-entity-events-v1-2.0.13+1934821104.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-events-interaction-v0\4.0.3+a4eebcf004\fabric-events-interaction-v0-4.0.3+a4eebcf004.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-gametest-api-v1\2.0.24+7feeb73304\fabric-gametest-api-v1-2.0.24+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-item-api-v1\11.2.0+42f2d2ba04\fabric-item-api-v1-11.2.0+42f2d2ba04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-item-group-api-v1\4.2.0+fcb9601404\fabric-item-group-api-v1-4.2.0+fcb9601404.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-lifecycle-events-v1\2.5.4+bf2a60eb04\fabric-lifecycle-events-v1-2.5.4+bf2a60eb04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-loot-api-v2\3.0.36+3f89f5a504\fabric-loot-api-v2-3.0.36+3f89f5a504.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-loot-api-v3\1.0.24+203e6b2304\fabric-loot-api-v3-1.0.24+203e6b2304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-message-api-v1\6.0.25+7feeb73304\fabric-message-api-v1-6.0.25+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-model-loading-api-v1\4.3.0+ae23723504\fabric-model-loading-api-v1-4.3.0+ae23723504.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-recipe-api-v1\8.0.9+160b66fa04\fabric-recipe-api-v1-8.0.9+160b66fa04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-screen-handler-api-v1\1.3.115+7feeb73304\fabric-screen-handler-api-v1-1.3.115+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-registry-sync-v0\6.1.8+742bac2904\fabric-registry-sync-v0-6.1.8+742bac2904.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-networking-api-v1\4.3.10+8998135104\fabric-networking-api-v1-4.3.10+8998135104.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-object-builder-api-v1\18.0.11+7d48d43904\fabric-object-builder-api-v1-18.0.11+7d48d43904.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-particles-v1\4.0.14+7feeb73304\fabric-particles-v1-4.0.14+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-renderer-indigo\2.0.3+50f0feb204\fabric-renderer-indigo-2.0.3+50f0feb204.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-renderer-api-v1\5.0.3+50f0feb204\fabric-renderer-api-v1-5.0.3+50f0feb204.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-rendering-fluids-v1\3.1.19+7feeb73304\fabric-rendering-fluids-v1-3.1.19+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-rendering-v1\10.2.1+0d31b09f04\fabric-rendering-v1-10.2.1+0d31b09f04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-screen-api-v1\2.0.38+7feeb73304\fabric-screen-api-v1-2.0.38+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-tag-api-v1\1.0.5+7d48d43904\fabric-tag-api-v1-1.0.5+7d48d43904.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-api-base\0.4.54+b47eab6b04\fabric-api-base-0.4.54+b47eab6b04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-biome-api-v1\15.0.6+b1c29d8e04\fabric-biome-api-v1-15.0.6+b1c29d8e04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-block-api-v1\1.0.31+7feeb73304\fabric-block-api-v1-1.0.31+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-rendering-data-attachment-v1\0.3.57+73761d2e04\fabric-rendering-data-attachment-v1-0.3.57+73761d2e04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-block-view-api-v2\1.0.19+7feeb73304\fabric-block-view-api-v2-1.0.19+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-client-gametest-api-v1\4.1.0+44a0820d04\fabric-client-gametest-api-v1-4.1.0+44a0820d04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-crash-report-info-v1\0.3.6+7feeb73304\fabric-crash-report-info-v1-0.3.6+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-dimensions-v1\4.0.10+7feeb73304\fabric-dimensions-v1-4.0.10+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-game-rule-api-v1\1.0.63+7d48d43904\fabric-game-rule-api-v1-1.0.63+7d48d43904.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-keybindings-v0\0.2.55+df3654b304\fabric-keybindings-v0-0.2.55+df3654b304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-key-binding-api-v1\1.0.57+7d48d43904\fabric-key-binding-api-v1-1.0.57+7d48d43904.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-resource-conditions-api-v1\5.0.13+203e6b2304\fabric-resource-conditions-api-v1-5.0.13+203e6b2304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-resource-loader-v0\3.0.14+e359e31604\fabric-resource-loader-v0-3.0.14+e359e31604.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-sound-api-v1\1.0.32+7feeb73304\fabric-sound-api-v1-1.0.32+7feeb73304.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\net\fabricmc\fabric-api\fabric-transitive-access-wideners-v1\6.3.2+56e78b9b04\fabric-transitive-access-wideners-v1-6.3.2+56e78b9b04.jar
+[Architectury Transformer DEBUG]  - E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_1819996326_v2\com\terraformersmc\modmenu\11.0.2\modmenu-11.0.2.jar
+[Architectury Transformer] Read classpath in 3.089 s
+[Architectury Transformer DEBUG] Closed File Systems for E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar to C:\Users\tommy\AppData\Local\Temp\3003110129231216083.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@13b4dfac
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@5a9703ab
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@1ad42bb3
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@1f2c7599
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@2ad0806f
+[Architectury Transformer DEBUG] Transforming from E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar to C:\Users\tommy\AppData\Local\Temp\3003110129231216083.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/gui/layouts/SidebarLayout with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/gui/layouts/SidebarSplitLayout with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsCoreClient$1 with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsCoreClient with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsFurnitureModClientRegisterers with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreen$CategoryType with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/CategoryScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocIconRenderer$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocIconRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocsScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/EntryScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/EntrySplitScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/NamespaceScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionLink with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/widgets/IconListButton with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ListSubScreen with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreen with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreenBackup$CategoryType with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreenBackup$ConfigPanel with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreenBackup$GeneralConfigPanel with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreenBackup$MiscConfigPanel with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreenBackup$WorkstationConfigPanel with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreenBackup with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/SidebarSplitSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/SidebarSubScreen with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CategoryButton with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomCheckbox$Builder with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomCheckbox$OnValueChange with maxs=true frames=true
@@ -146,72 +167,363 @@
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$TitleEntry with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/ThresholdSlider with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/commands/ModConfigCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/Configs$SearchMode with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/Configs with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/CustomConfigSpec with maxs=true frames=true
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/keybinds/ModConfigKeybind with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/ILyivxConfigProvider with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/IPlatformHelper$Platform with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/IPlatformHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/Services with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/WoolHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocIconType with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsBootstrap with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsManager$LoadedData with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsManager with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsService with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/CategoryJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/DocJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson$Page with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson$Section with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/LYIVXsCore with maxs=true frames=true
 [Architectury Transformer DEBUG] Checking whether /architectury.common.json is a mixin config.
 [Architectury Transformer DEBUG] Checking whether /LYIVXsCore-common.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\tommy\AppData\Local\Temp\7589281244989850347.jar
-[Architectury Transformer] Listening at D:\WorkSpaces\LYIVXsCore\common\build\devlibs\ls_core-1.0.0-SNAPSHOT-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\tommy\AppData\Local\Temp\7589281244989850347.jar] contains packages: net.lyivx.ls_core.client, net.lyivx.ls_core, net.lyivx.ls_core.common.config, net.lyivx.ls_core.common.keybinds, net.lyivx.ls_core.client.screens.widgets, net.lyivx.ls_core.client.screens, net.lyivx.ls_core.common.commands
-[Architectury Transformer DEBUG] Closed File Systems for D:\WorkSpaces\LYIVXsCore\common\build\devlibs\ls_core-1.0.0-SNAPSHOT-dev.jar
-[Architectury Transformer DEBUG] Classpath entry [D:\WorkSpaces\LYIVXsCore\fabric\build\resources\main] contains packages: 
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\tommy\AppData\Local\Temp\3003110129231216083.jar
+[Architectury Transformer] Listening at E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\tommy\AppData\Local\Temp\3003110129231216083.jar] contains packages: net.lyivx.ls_core.client, net.lyivx.ls_core, net.lyivx.ls_core.common.config, net.lyivx.ls_core.docs.model, net.lyivx.ls_core.client.gui.layouts, net.lyivx.ls_core.client.screens.docs, net.lyivx.ls_core.client.screens.widgets, net.lyivx.ls_core.client.screens, net.lyivx.ls_core.client.screens.docs.widgets, net.lyivx.ls_core.common.utils, net.lyivx.ls_core.client.screens.docs.renderer, net.lyivx.ls_core.docs
+[Architectury Transformer DEBUG] Closed File Systems for E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar
+[Architectury Transformer DEBUG] Classpath entry [E:\WorkSpaces\LYIVXsCore 1.21.4\fabric\build\resources\main] contains packages: 
 [Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/LYIVXsCore.class to net/lyivx/ls_core/LYIVXsCore.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/LYIVXsCore with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/LYIVXsCore in 2.256 ms
-[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/common/config/CustomConfigSpec.class to net/lyivx/ls_core/common/config/CustomConfigSpec.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/LYIVXsCore in 3.837 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/docs/DocsBootstrap.class to net/lyivx/ls_core/docs/DocsBootstrap.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/CustomConfigSpec with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/common/config/CustomConfigSpec in 2.407 ms
-[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/common/config/Configs.class to net/lyivx/ls_core/common/config/Configs.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsBootstrap with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/docs/DocsBootstrap in 918.4 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/docs/DocsService.class to net/lyivx/ls_core/docs/DocsService.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/Configs with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/common/config/Configs in 1.187 ms
-[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/common/config/Configs$SearchMode.class to net/lyivx/ls_core/common/config/Configs$SearchMode.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsService with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/docs/DocsService in 1.372 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/docs/DocsManager.class to net/lyivx/ls_core/docs/DocsManager.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/Configs$SearchMode with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/common/config/Configs$SearchMode in 840.3 ?s
-[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/LYIVXsCoreClient.class to net/lyivx/ls_core/client/LYIVXsCoreClient.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsCoreClient with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/LYIVXsCoreClient in 1.438 ms
-[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/LYIVXsCoreClient$1.class to net/lyivx/ls_core/client/LYIVXsCoreClient$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsCoreClient$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/LYIVXsCoreClient$1 in 454.9 ?s
-[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/common/keybinds/ModConfigKeybind.class to net/lyivx/ls_core/common/keybinds/ModConfigKeybind.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/keybinds/ModConfigKeybind with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/common/keybinds/ModConfigKeybind in 567.5 ?s
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsManager with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/docs/DocsManager in 4.157 ms
 [Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/ModConfigScreen.class to net/lyivx/ls_core/client/screens/ModConfigScreen.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreen with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/ModConfigScreen in 2.284 ms
-[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/common/commands/ModConfigCommand.class to net/lyivx/ls_core/common/commands/ModConfigCommand.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/ModConfigScreen in 4.683 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/common/config/ILyivxConfigProvider.class to net/lyivx/ls_core/common/config/ILyivxConfigProvider.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/commands/ModConfigCommand with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/common/commands/ModConfigCommand in 1.521 ms
-[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/ModConfigScreen$CategoryType.class to net/lyivx/ls_core/client/screens/ModConfigScreen$CategoryType.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/ILyivxConfigProvider with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/common/config/ILyivxConfigProvider in 579.6 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/common/config/CustomConfigSpec.class to net/lyivx/ls_core/common/config/CustomConfigSpec.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreen$CategoryType with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/ModConfigScreen$CategoryType in 1.303 ms
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/CustomConfigSpec with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/common/config/CustomConfigSpec in 1.783 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/LYIVXsCoreClient.class to net/lyivx/ls_core/client/LYIVXsCoreClient.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsCoreClient with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/LYIVXsCoreClient in 1.272 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/LYIVXsCoreClient$1.class to net/lyivx/ls_core/client/LYIVXsCoreClient$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsCoreClient$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/LYIVXsCoreClient$1 in 403.8 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/docs/DocsManager$LoadedData.class to net/lyivx/ls_core/docs/DocsManager$LoadedData.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsManager$LoadedData with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/docs/DocsManager$LoadedData in 714.3 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/docs/model/DocJson.class to net/lyivx/ls_core/docs/model/DocJson.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/DocJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/docs/model/DocJson in 1.276 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/docs/DocIconType.class to net/lyivx/ls_core/docs/DocIconType.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocIconType with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/docs/DocIconType in 3.767 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/docs/model/CategoryJson.class to net/lyivx/ls_core/docs/model/CategoryJson.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/CategoryJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/docs/model/CategoryJson in 539.2 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/docs/model/EntryJson.class to net/lyivx/ls_core/docs/model/EntryJson.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/docs/model/EntryJson in 685.9 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/docs/model/EntryJson$Page.class to net/lyivx/ls_core/docs/model/EntryJson$Page.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson$Page with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/docs/model/EntryJson$Page in 748.3 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/docs/model/EntryJson$Section.class to net/lyivx/ls_core/docs/model/EntryJson$Section.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson$Section with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/docs/model/EntryJson$Section in 642.1 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/DocsScreen.class to net/lyivx/ls_core/client/screens/docs/DocsScreen.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocsScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/DocsScreen in 3.077 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/ListSubScreen.class to net/lyivx/ls_core/client/screens/ListSubScreen.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ListSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/ListSubScreen in 1.234 ms
 [Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/widgets/CustomOptionsList.class to net/lyivx/ls_core/client/screens/widgets/CustomOptionsList.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/widgets/CustomOptionsList in 953.3 ?s
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/widgets/CustomOptionsList in 1.551 ms
 [Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$OptionEntry.class to net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$OptionEntry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$OptionEntry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$OptionEntry in 404.9 ?s
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$OptionEntry in 885.2 μs
 [Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$Entry.class to net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$Entry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$Entry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$Entry in 642.9 ?s
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$Entry in 918.3 μs
 [Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$TitleEntry.class to net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$TitleEntry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$TitleEntry with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$TitleEntry in 567.4 ?s
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$TitleEntry in 648.2 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/NamespaceScreen.class to net/lyivx/ls_core/client/screens/docs/NamespaceScreen.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/NamespaceScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/NamespaceScreen in 2.897 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/widgets/IconListButton.class to net/lyivx/ls_core/client/screens/docs/widgets/IconListButton.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/widgets/IconListButton with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/widgets/IconListButton in 1.143 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/DocIconRenderer.class to net/lyivx/ls_core/client/screens/docs/DocIconRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocIconRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/DocIconRenderer in 1.503 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/DocIconRenderer$1.class to net/lyivx/ls_core/client/screens/docs/DocIconRenderer$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocIconRenderer$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/DocIconRenderer$1 in 671.3 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/CategoryScreen.class to net/lyivx/ls_core/client/screens/docs/CategoryScreen.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/CategoryScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/CategoryScreen in 2.230 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/EntrySplitScreen.class to net/lyivx/ls_core/client/screens/docs/EntrySplitScreen.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/EntrySplitScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/EntrySplitScreen in 4.282 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/SidebarSplitSubScreen.class to net/lyivx/ls_core/client/screens/SidebarSplitSubScreen.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/SidebarSplitSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/SidebarSplitSubScreen in 2.430 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/gui/layouts/SidebarSplitLayout.class to net/lyivx/ls_core/client/gui/layouts/SidebarSplitLayout.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/gui/layouts/SidebarSplitLayout with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/gui/layouts/SidebarSplitLayout in 948.3 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/gui/layouts/SidebarLayout.class to net/lyivx/ls_core/client/gui/layouts/SidebarLayout.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/gui/layouts/SidebarLayout with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/gui/layouts/SidebarLayout in 1.248 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer in 6.463 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result in 754.4 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem in 538.3 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionLink.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionLink.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionLink with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionLink in 489.8 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult in 477.8 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState in 884.0 μs
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer in 236.8 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result in 12.38 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem in 6.595 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/EntrySplitScreen.class to net/lyivx/ls_core/client/screens/docs/EntrySplitScreen.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/EntrySplitScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/EntrySplitScreen in 17.37 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult in 1.871 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState in 1.642 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer in 15.51 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result in 3.028 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem in 1.706 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/EntrySplitScreen.class to net/lyivx/ls_core/client/screens/docs/EntrySplitScreen.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/EntrySplitScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/EntrySplitScreen in 6.048 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult in 1.150 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState in 681.5 μs
+[Architectury Transformer DEBUG] Closed File Systems for E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar
+[Architectury Transformer] Detected File Modification at ls_core-1.1.5-Common-dev-1.21.4.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar to C:\Users\tommy\AppData\Local\Temp\3003110129231216083.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@13b4dfac
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@5a9703ab
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@1ad42bb3
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@1f2c7599
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@2ad0806f
+[Architectury Transformer DEBUG] Transforming from E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar to C:\Users\tommy\AppData\Local\Temp\3003110129231216083.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing architectury_inject_LYIVXsCore1214_fabric_9cbf33c75f3546f1bb3f2b7fc6852b80_9577d2ddfc3e0eef26287c078c21e75112c217be3deb12668d3c436f18c98b80ls_core115Commondev1214jar/PlatformMethods with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/LYIVXsCore with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsCoreClient$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsCoreClient with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/gui/layouts/SidebarLayout with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/gui/layouts/SidebarSplitLayout with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ListSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/SidebarSplitSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/SidebarSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/CategoryScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocIconRenderer$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocIconRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocsScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/EntryScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/EntrySplitScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/NamespaceScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionLink with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/widgets/IconListButton with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CategoryButton with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomCheckbox$Builder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomCheckbox$OnValueChange with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomCheckbox with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$Entry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$OptionEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$TitleEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/ThresholdSlider with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/CustomConfigSpec with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/ILyivxConfigProvider with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/IPlatformHelper$Platform with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/IPlatformHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/Services with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/WoolHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocIconType with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsBootstrap with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsManager$LoadedData with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsManager with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsService with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/CategoryJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/DocJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson$Page with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson$Section with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Checking whether /architectury.common.json is a mixin config.
+[Architectury Transformer DEBUG] Checking whether /LYIVXsCore-common.mixins.json is a mixin config.
+[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.
+[Architectury Transformer DEBUG] Redefining net.lyivx.ls_core.client.screens.docs.renderer.SectionRenderer$TextScrollState
+[Architectury Transformer DEBUG] Redefining net.lyivx.ls_core.client.screens.docs.renderer.SectionRenderer
+[Architectury Transformer DEBUG] Redefining net.lyivx.ls_core.client.screens.docs.renderer.SectionRenderer$InlineLinkResult
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState in 1.899 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer in 10.41 ms
+[Architectury Transformer DEBUG] Transforming from net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult.class to net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult in 993.0 μs
+[Architectury Transformer] Redefined 3 class(es) from E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar in 196.8 ms
+[Architectury Transformer DEBUG] Closed File Systems for E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar
+[Architectury Transformer] Detected File Modification at ls_core-1.1.5-Common-dev-1.21.4.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar to C:\Users\tommy\AppData\Local\Temp\3003110129231216083.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@13b4dfac
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@5a9703ab
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@1ad42bb3
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@1f2c7599
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@2ad0806f
+[Architectury Transformer DEBUG] Transforming from E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar to C:\Users\tommy\AppData\Local\Temp\3003110129231216083.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing architectury_inject_LYIVXsCore1214_fabric_9cbf33c75f3546f1bb3f2b7fc6852b80_9577d2ddfc3e0eef26287c078c21e75112c217be3deb12668d3c436f18c98b80ls_core115Commondev1214jar/PlatformMethods with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/LYIVXsCore with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsCoreClient$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/LYIVXsCoreClient with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/gui/layouts/SidebarLayout with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/gui/layouts/SidebarSplitLayout with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ListSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/ModConfigScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/SidebarSplitSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/SidebarSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/CategoryScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocIconRenderer$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocIconRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/DocsScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/EntryScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/EntrySplitScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/NamespaceScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionLink with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$HoverItem with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$InlineLinkResult with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$Result with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer$TextScrollState with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/renderer/SectionRenderer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/docs/widgets/IconListButton with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CategoryButton with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomCheckbox$Builder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomCheckbox$OnValueChange with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomCheckbox with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$Entry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$OptionEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList$TitleEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/CustomOptionsList with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/client/screens/widgets/ThresholdSlider with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/CustomConfigSpec with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/config/ILyivxConfigProvider with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/IPlatformHelper$Platform with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/IPlatformHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/Services with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/common/utils/WoolHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocIconType with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsBootstrap with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsManager$LoadedData with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsManager with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/DocsService with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/CategoryJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/DocJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson$Page with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson$Section with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing net/lyivx/ls_core/docs/model/EntryJson with maxs=true frames=true
+[Architectury Transformer DEBUG] Checking whether /architectury.common.json is a mixin config.
+[Architectury Transformer DEBUG] Checking whether /LYIVXsCore-common.mixins.json is a mixin config.
+[Architectury Transformer DEBUG] Checking whether /fabric.mod.json is a mixin config.

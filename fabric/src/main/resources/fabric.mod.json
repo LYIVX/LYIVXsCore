@@ -2,15 +2,15 @@
   "schemaVersion": 1,
   "id": "ls_core",
   "version": "${version}",
-  "name": "LYIVX's PalCards",
+  "name": "LYIVX's Core",
   "description": "A Core Mod For LYIVX's Mods",
   "authors": [
     "LYIVX"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/lyivxs-furniture",
-    "issues": "https://github.com/LYIVX/LYIVXS-Furniture-Mod/issues",
-    "sources": "https://github.com/LYIVX/LYIVXS-Furniture-Mod"
+    "homepage": "https://modrinth.com/mod/lyivxs-core",
+    "issues": "https://github.com/LYIVX/LYIVXsCore/issues",
+    "sources": "https://github.com/LYIVX/LYIVXsCore"
   },
   "license": "All-Rights-Reserved",
   "icon": "logo.png",
@@ -39,8 +39,8 @@
     "modmenu": {
       "links": {
         "modmenu.discord": "https://discord.gg/YxXJpZK7nv",
-        "modmenu.modrinth": "https://modrinth.com/mod/lyivxs-furniture",
-        "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/lyivxs-furniture"
+        "modmenu.modrinth": "https://modrinth.com/mod/lyivxs-core",
+        "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/lyivxs-core"
       }
     }
   }

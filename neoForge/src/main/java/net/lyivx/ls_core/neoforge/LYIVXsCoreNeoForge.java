@@ -1,5 +1,6 @@
 package net.lyivx.ls_core.neoforge;
 
+import dev.architectury.event.events.common.LifecycleEvent;
 import net.lyivx.ls_core.LYIVXsCore;
 import net.lyivx.ls_core.client.LYIVXsCoreClient;
 import net.neoforged.bus.api.SubscribeEvent;
@@ -20,7 +21,6 @@ public class LYIVXsCoreNeoForge {
         bus.addListener(this::onClientSetup);
 
         NeoForge.EVENT_BUS.register(this);
-
     }
 
     private void onClientSetup(FMLClientSetupEvent event) {

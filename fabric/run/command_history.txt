@@ -35,3 +35,4 @@
 /time set day
 /kill @e
 /lyivxs_mods_config
+/lsdocs reload

@@ -1,12 +1,16 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" factoryName="Application" name="Minecraft Client (:fabric)" singleton="true" type="Application">
+  <configuration default="false" factoryName="Application" name="Minecraft Client (:fabric)" type="Application">
     <option name="MAIN_CLASS_NAME" value="dev.architectury.transformer.TransformerRuntime"/>
-    <module name="LYIVXsCore.fabric.main"/>
-    <shortenClasspath name="ARGS_FILE"/>
-    <option name="VM_PARAMETERS" value="-Dfabric.dli.config=D:\WorkSpaces\LYIVXs@@0020Furniture@@0020Mod@@00201.21\fabric\.gradle\loom-cache\launch.cfg -Dfabric.dli.env=client -Dfabric.dli.main=net.fabricmc.loader.impl.launch.knot.KnotClient &quot;-Darchitectury.main.class=D:\WorkSpaces\LYIVXs Furniture Mod 1.21\fabric\.gradle\architectury\.main_class&quot; &quot;-Darchitectury.runtime.transformer=D:\WorkSpaces\LYIVXs Furniture Mod 1.21\fabric\.gradle\architectury\.transforms&quot; &quot;-Darchitectury.properties=D:\WorkSpaces\LYIVXs Furniture Mod 1.21\fabric\.gradle\architectury\.properties&quot; -Djdk.attach.allowAttachSelf=true &quot;-javaagent:D:\WorkSpaces\LYIVXs Furniture Mod 1.21\.gradle\architectury\architectury-transformer-agent.jar&quot;"/>
+    <module name="LYIVXsCore_1.21.4.fabric.main"/>
+    <option name="PROGRAM_PARAMETERS" value=""/>
+    <option name="VM_PARAMETERS" value="-Dfabric.dli.config=E:\WorkSpaces\LYIVXsCore@@00201.21.4\fabric\.gradle\loom-cache\launch.cfg -Dfabric.dli.env=client -Dfabric.dli.main=net.fabricmc.loader.impl.launch.knot.KnotClient &quot;-Darchitectury.main.class=E:\WorkSpaces\LYIVXsCore 1.21.4\fabric\.gradle\architectury\.main_class&quot; &quot;-Darchitectury.runtime.transformer=E:\WorkSpaces\LYIVXsCore 1.21.4\fabric\.gradle\architectury\.transforms&quot; &quot;-Darchitectury.properties=E:\WorkSpaces\LYIVXsCore 1.21.4\fabric\.gradle\architectury\.properties&quot; -Djdk.attach.allowAttachSelf=true &quot;-javaagent:E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\architectury\architectury-transformer-agent.jar&quot;"/>
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fabric/run/"/>
     <method v="2">
       <option enabled="true" name="Make"/>
     </method>
+    <envs>
+      
+    </envs>
+    <shortenClasspath name="ARGS_FILE"/>
   <classpathModifications/></configuration>
 </component>

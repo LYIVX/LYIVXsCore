@@ -1,0 +1,10 @@
+{
+  "id": "features",
+  "title": "Advanced Features",
+  "description": "Explore advanced Minecraft features and mechanics beyond basic crafting.",
+  "iconType": "ITEM",
+  "icon": "minecraft:compass",
+  "sortOrder": 3
+}
+
+

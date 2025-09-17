@@ -1,0 +1,73 @@
+{
+  "category": "crafting_systems",
+  "title": "Minecraft Crafting Systems",
+  "iconType": "ITEM",
+  "icon": "minecraft:book",
+  "pages": [
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "The Complete Guide to Minecraft Crafting",
+          "text": "Minecraft features a sophisticated and interconnected crafting system that evolves as players progress through the game. From basic [[entry:crafting_table:hand crafting]] to advanced [[entry:brewing_stand:potion brewing]], each crafting station serves a specific purpose and unlocks new possibilities.\n\nThis guide covers all the major crafting systems in Minecraft, explaining how they work together to create a comprehensive progression system. Understanding these systems is essential for players who want to master the game's mechanics and create advanced items and structures.\n\nThe crafting systems in Minecraft can be divided into several categories: [[entry:crafting_table:basic crafting]] for simple items, [[entry:furnace:smelting]] for processing materials, [[entry:smithing_table:equipment enhancement]] for upgrading gear, and [[entry:brewing_stand:magical crafting]] for creating potions and effects."
+        },
+        { 
+          "type": "showcase", 
+          "items": ["minecraft:crafting_table", "minecraft:furnace", "minecraft:smithing_table"] 
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "Basic Crafting: The Foundation",
+          "text": "The [[entry:crafting_table:crafting table]] is the foundation of all crafting in Minecraft. This essential block transforms a 2x2 crafting grid into a full 3x3 workspace, unlocking the ability to create complex items and tools.\n\nBasic crafting is used for creating [[entry:crafting_table:tools]], [[entry:crafting_table:weapons]], [[entry:crafting_table:armor]], [[entry:crafting_table:decorative blocks]], and [[entry:crafting_table:redstone components]]. Most items in the game require a crafting table to create, making it the most important crafting station.\n\nCrafting recipes can be either [[entry:crafting_table:shaped]] (requiring specific item arrangements) or [[entry:crafting_table:shapeless]] (only requiring the right ingredients). Understanding these patterns is crucial for efficient crafting and resource management."
+        },
+        { 
+          "type": "recipe", 
+          "title": "Crafting Table Recipe",
+          "recipeType": "crafting", 
+          "recipeId": "minecraft:crafting_table" 
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "Smelting: Material Processing",
+          "text": "Smelting is the process of transforming raw materials into usable resources. Minecraft features three specialized smelting stations, each optimized for different types of processing.\n\nThe [[entry:furnace:furnace]] is the general-purpose smelter, capable of processing both ores and food. It's essential for creating [[entry:furnace:metal ingots]], [[entry:furnace:glass]], and [[entry:furnace:cooked food]]. The [[entry:smoker:smoker]] specializes in food processing, cooking items twice as fast as a regular furnace.\n\nThe [[entry:blast_furnace:blast furnace]] is designed specifically for ore processing, smelting metal items at double speed. This makes it ideal for players who need to process large quantities of metal quickly for building projects or tool creation."
+        },
+        { 
+          "type": "showcase", 
+          "items": ["minecraft:furnace", "minecraft:smoker", "minecraft:blast_furnace"] 
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "Advanced Crafting: Specialized Stations",
+          "text": "Beyond basic crafting and smelting, Minecraft offers several specialized crafting stations that serve specific purposes and unlock advanced capabilities.\n\nThe [[entry:smithing_table:smithing table]] allows players to upgrade and modify equipment, including the creation of [[entry:smithing_table:netherite gear]] and the application of [[entry:smithing_table:upgrade templates]]. This is essential for players who want to create the most powerful tools and weapons possible.\n\nThe [[entry:brewing_stand:brewing stand]] creates magical effects through potion brewing, allowing players to enhance abilities, provide protection, or inflict status effects. This system requires extensive knowledge of ingredients and their effects.\n\nThe [[entry:stonecutter:stonecutter]] specializes in processing stone materials into architectural elements like stairs, slabs, and walls, making it essential for detailed building projects."
+        },
+        { 
+          "type": "recipe", 
+          "title": "Smithing Table Recipe",
+          "recipeType": "crafting", 
+          "recipeId": "minecraft:smithing_table" 
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "Integration and Progression",
+          "text": "All of Minecraft's crafting systems work together to create a comprehensive progression system. Players start with basic hand crafting, progress to the [[entry:crafting_table:crafting table]], and gradually unlock more specialized stations as they gather resources and explore the world.\n\nThe crafting systems encourage players to think strategically about resource management and workshop organization. Many players create dedicated crafting areas with multiple stations, storage systems, and automated production lines using [[entry:crafting_systems_overview:hoppers]] and [[entry:crafting_systems_overview:redstone]].\n\nUnderstanding how these systems interconnect is crucial for efficient gameplay. For example, the [[entry:crafting_table:crafting table]] creates the [[entry:furnace:furnace]], which processes ores into ingots, which are used by the [[entry:smithing_table:smithing table]] to create advanced equipment. This progression system provides clear goals and rewards for players who invest time in mastering the crafting mechanics.\n\nWhether you're a beginner learning the basics or an experienced player optimizing your production systems, understanding Minecraft's crafting systems is essential for success and enjoyment of the game."
+        }
+      ]
+    }
+  ]
+}

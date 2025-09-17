@@ -2,9 +2,12 @@ package net.lyivx.ls_core.common.config;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.Reader;
+import java.io.Writer;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
@@ -12,21 +15,36 @@ public class CustomConfigSpec {
     private final Gson gson;
     private JsonObject config;
     private final Path configPath;
+    private final JsonObject defaultConfig;
 
-    public CustomConfigSpec(Path configDirectory, String fileName) {
+    public CustomConfigSpec(Path configDirectory, String providerModId, JsonObject defaultConfig) {
         this.gson = new GsonBuilder().setPrettyPrinting().create();
+        this.defaultConfig = defaultConfig != null ? defaultConfig : new JsonObject();
         this.config = new JsonObject();
-        this.configPath = configDirectory.resolve(fileName + ".json");
-        System.out.println("Config will be saved to: " + this.configPath.toAbsolutePath());
-        loadOrCreateConfig();  // Load config at initialization
+        this.configPath = configDirectory.resolve(providerModId + ".json");
+        System.out.println("Config for [" + providerModId + "] will be saved to: " + this.configPath.toAbsolutePath());
+        loadOrCreateConfig();
     }
 
     private void loadOrCreateConfig() {
         if (Files.exists(configPath)) {
             loadConfig();
+            mergeDefaults();
         } else {
-            createFurnitureModDefaultConfig();
-            createChiseldBlocksDefaultConfig();
+            this.config = this.defaultConfig.deepCopy();
+            saveConfig();
+        }
+    }
+
+    private void mergeDefaults() {
+        boolean changed = false;
+        for (String key : defaultConfig.keySet()) {
+            if (!config.has(key)) {
+                config.add(key, defaultConfig.get(key));
+                changed = true;
+            }
+        }
+        if (changed) {
             saveConfig();
         }
     }
@@ -39,21 +57,9 @@ public class CustomConfigSpec {
         }
     }
 
-    private void createFurnitureModDefaultConfig() {
-        JsonObject furniture_mod = new JsonObject();
-        furniture_mod.addProperty("sort_recipes", true);
-        furniture_mod.addProperty("preview", true);
-        furniture_mod.addProperty("search_bar_mode", Configs.SearchMode.AUTOMATIC.name());
-        furniture_mod.addProperty("search_bar_threshold", 32);
-
-        if (!config.has("furniture_mod")) {
-            config.add("furniture_mod", furniture_mod);
-        }
-    }
-
     public void saveConfig() {
         try {
-            Files.createDirectories(configPath.getParent());  // Ensure the directory exists
+            Files.createDirectories(configPath.getParent());
             try (Writer writer = Files.newBufferedWriter(configPath)) {
                 gson.toJson(config, writer);
             }
@@ -62,107 +68,72 @@ public class CustomConfigSpec {
         }
     }
 
-    private JsonObject getOrCreateFurnitureMod() {
-        if (!config.has("furniture_mod") || config.get("furniture_mod").isJsonNull()) {
-            JsonObject furniture_mod = new JsonObject();
-            config.add("furniture_mod", furniture_mod);
-            return furniture_mod;
-        }
-        return config.getAsJsonObject("furniture_mod");
+    public JsonObject getConfigRoot() {
+        return config;
     }
 
-    public boolean getSortRecipes() {
-        JsonObject furniture_mod = config.getAsJsonObject("furniture_mod");
-        if (!furniture_mod.has("sort_recipes")) {
-            furniture_mod.addProperty("sort_recipes", true);
-            saveConfig();
-        }
-        return furniture_mod.get("sort_recipes").getAsBoolean();
+    public JsonElement get(String key) {
+        return config.get(key);
     }
 
-    public boolean getPreview() {
-        JsonObject furniture_mod = config.getAsJsonObject("furniture_mod");
-        if (!furniture_mod.has("preview")) {
-            furniture_mod.addProperty("preview", true);
-            saveConfig();
+    public boolean getBoolean(String key, boolean defaultValue) {
+        if (config.has(key) && config.get(key).isJsonPrimitive() && config.get(key).getAsJsonPrimitive().isBoolean()) {
+            return config.get(key).getAsBoolean();
         }
-        return furniture_mod.get("preview").getAsBoolean();
+        setBoolean(key, defaultValue);
+        return defaultValue;
     }
 
-    public Configs.SearchMode getSearchMode() {
-        JsonObject furniture_mod = config.getAsJsonObject("furniture_mod");
-        if (!furniture_mod.has("search_bar_mode")) {
-            furniture_mod.addProperty("search_bar_mode", Configs.SearchMode.AUTOMATIC.name());
-            saveConfig();
+    public int getInt(String key, int defaultValue) {
+        if (config.has(key) && config.get(key).isJsonPrimitive() && config.get(key).getAsJsonPrimitive().isNumber()) {
+            return config.get(key).getAsInt();
         }
-        String mode = furniture_mod.get("search_bar_mode").getAsString();
-        return Configs.SearchMode.valueOf(mode);
+        setInt(key, defaultValue);
+        return defaultValue;
     }
 
-    public int getSearchBarThreshold() {
-        JsonObject furniture_mod = config.getAsJsonObject("furniture_mod");
-        if (!furniture_mod.has("search_bar_threshold")) {
-            furniture_mod.addProperty("search_bar_threshold", 32);
-            saveConfig();
+    public String getString(String key, String defaultValue) {
+        if (config.has(key) && config.get(key).isJsonPrimitive() && config.get(key).getAsJsonPrimitive().isString()) {
+            return config.get(key).getAsString();
         }
-        return furniture_mod.get("search_bar_threshold").getAsInt();
+        setString(key, defaultValue);
+        return defaultValue;
     }
 
-    public void setSortRecipes(boolean value) {
-        JsonObject furniture_mod = getOrCreateFurnitureMod();
-        furniture_mod.addProperty("sort_recipes", value);
+    public <T extends Enum<T>> T getEnum(String key, T defaultValue, Class<T> enumClass) {
+        if (config.has(key) && config.get(key).isJsonPrimitive() && config.get(key).getAsJsonPrimitive().isString()) {
+            try {
+                return Enum.valueOf(enumClass, config.get(key).getAsString());
+            } catch (IllegalArgumentException e) {
+                // Invalid enum value in config
+            }
+        }
+        setEnum(key, defaultValue);
+        return defaultValue;
+    }
+
+    public void set(String key, JsonElement value) {
+        config.add(key, value);
         saveConfig();
     }
 
-    public void setPreview(boolean value) {
-        JsonObject furniture_mod = getOrCreateFurnitureMod();
-        furniture_mod.addProperty("preview", value);
+    public void setBoolean(String key, boolean value) {
+        config.addProperty(key, value);
         saveConfig();
     }
 
-    public void setSearchMode(Configs.SearchMode mode) {
-        JsonObject furniture_mod = getOrCreateFurnitureMod();
-        furniture_mod.addProperty("search_bar_mode", mode.name());
+    public void setInt(String key, int value) {
+        config.addProperty(key, value);
         saveConfig();
     }
 
-    public void setSearchBarThreshold(int threshold) {
-        JsonObject furniture_mod = getOrCreateFurnitureMod();
-        furniture_mod.addProperty("search_bar_threshold", threshold);
+    public void setString(String key, String value) {
+        config.addProperty(key, value);
         saveConfig();
     }
 
-
-    private void createChiseldBlocksDefaultConfig() {
-        JsonObject chiseld_blocks = new JsonObject();
-        chiseld_blocks.addProperty("connected", true);
-
-        if (!config.has("chiseld_blocks")) {
-            config.add("chiseld_blocks", chiseld_blocks);
-        }
-    }
-
-    private JsonObject getOrCreateChiseldBlocks() {
-        if (!config.has("chiseld_blocks") || config.get("chiseld_blocks").isJsonNull()) {
-            JsonObject chiseld_blocks = new JsonObject();
-            config.add("chiseld_blocks", chiseld_blocks);
-            return chiseld_blocks;
-        }
-        return config.getAsJsonObject("chiseld_blocks");
-    }
-
-    public boolean getConnected() {
-        JsonObject chiseld_blocks = config.getAsJsonObject("chiseld_blocks");
-        if (!chiseld_blocks.has("chiseld_blocks")) {
-            chiseld_blocks.addProperty("connected", true);
-            saveConfig();
-        }
-        return chiseld_blocks.get("connected").getAsBoolean();
-    }
-
-    public void setConnected(boolean value) {
-        JsonObject chiseld_blocks = getOrCreateChiseldBlocks();
-        chiseld_blocks.addProperty("connected", value);
+    public <T extends Enum<T>> void setEnum(String key, T value) {
+        config.addProperty(key, value.name());
         saveConfig();
     }
 }

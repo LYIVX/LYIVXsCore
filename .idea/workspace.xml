@@ -5,11 +5,109 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25ecd3aa-dddd-4311-95c1-6d6e6dfdfb00" name="Changes" comment="Release">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore_1.21.1.common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore_1.21.1.common.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore_1.21.1.common.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore_1.21.4.common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore_1.21.4.common.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore_1.21.4.common.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore_1.21.common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore_1.21.common.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/common/LYIVXsCore_1.21.common.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXsCore_1.21.1.fabric.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXsCore_1.21.1.fabric.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXsCore_1.21.4.fabric.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXsCore_1.21.4.fabric.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXsCore_1.21.fabric.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/fabric/LYIVXsCore_1.21.fabric.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsCore_1.21.1.neoforge.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsCore_1.21.1.neoforge.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsCore_1.21.4.neoforge.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsCore_1.21.4.neoforge.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsCore_1.21.neoforge.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/neoforge/LYIVXsCore_1.21.neoforge.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/config/jei/blacklist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/crash-reports/crash-2025-02-20_18.13.32-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/crash-reports/crash-2025-02-20_18.14.19-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-15-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-15-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-16-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-20-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-20-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-20-3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/advancements/50441446-173a-3648-92c5-519e7eb2f5c1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/advancements/650a4760-687d-3f2e-93ae-3e71e4c042bb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/advancements/ad8236b9-e26f-349c-902e-7100197cd86d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/advancements/d752da32-446a-32a0-876c-33f203010ff8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/data/scoreboard.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/playerdata/50441446-173a-3648-92c5-519e7eb2f5c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/playerdata/650a4760-687d-3f2e-93ae-3e71e4c042bb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/playerdata/650a4760-687d-3f2e-93ae-3e71e4c042bb.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/playerdata/ad8236b9-e26f-349c-902e-7100197cd86d.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/playerdata/ad8236b9-e26f-349c-902e-7100197cd86d.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/playerdata/d752da32-446a-32a0-876c-33f203010ff8.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/stats/50441446-173a-3648-92c5-519e7eb2f5c1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/stats/650a4760-687d-3f2e-93ae-3e71e4c042bb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/stats/ad8236b9-e26f-349c-902e-7100197cd86d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/run/saves/New World/stats/d752da32-446a-32a0-876c-33f203010ff8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___fabric__fabric.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client___neoforge__neoforge.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/common/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/net/lyivx/ls_core/LYIVXsCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/net/lyivx/ls_core/LYIVXsCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/net/lyivx/ls_core/client/screens/ModConfigScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/net/lyivx/ls_core/client/screens/ModConfigScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/net/lyivx/ls_core/client/screens/widgets/CustomCheckbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/net/lyivx/ls_core/client/screens/widgets/CustomCheckbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/net/lyivx/ls_core/client/screens/widgets/CustomOptionsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/net/lyivx/ls_core/client/screens/widgets/CustomOptionsList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/.architectury-transformer/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/.architectury-transformer/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/config/fabric/indigo-renderer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/config/jei/jei-client.ini" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/config/jei/jei-client.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/config/jei/jei-colors.ini" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/config/jei/jei-colors.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/config/jei/jei-debug.ini" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/config/jei/jei-debug.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/config/jei/jei-mod-id-format.ini" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/config/jei/jei-mod-id-format.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/config/jei/recipe-category-sort-order.ini" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/config/jei/recipe-category-sort-order.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/data/fabricDefaultResourcePacks.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/data/fabricDefaultResourcePacks.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/2025-02-14-7.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/options.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/DIM-1/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/DIM1/data/raids_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/entities/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/entities/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/entities/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/entities/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/poi/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/poi/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/poi/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/poi/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/saves/New World/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/New World/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/servers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/servers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/servers.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/servers.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/src/main/java/net/lyivx/ls_core/fabric/LYIVXsCoreFabric.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/src/main/java/net/lyivx/ls_core/fabric/LYIVXsCoreFabric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/src/main/resources/fabric.mod.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoForge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/neoForge/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoForge/src/main/java/net/lyivx/ls_core/client/neoforge/LYIVXsCoreClientImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neoForge/src/main/resources/META-INF/neoforge.mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/neoForge/src/main/resources/META-INF/neoforge.mods.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,48 +137,44 @@
         <task path="$PROJECT_DIR$/common">
           <activation />
         </task>
+        <task path="E:\WorkSpaces\LYIVXsCore 1.21.4">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
+                <item name="LYIVXsCore 1.21.4" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
-                <item name="common" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
-                <item name="common" type="2d1252cf:ModuleNode" />
+                <item name="LYIVXsCore 1.21.4" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
-                <item name="common" type="2d1252cf:ModuleNode" />
+                <item name="LYIVXsCore 1.21.4" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
-                <item name="neoforge" type="2d1252cf:ModuleNode" />
+                <item name="LYIVXsCore 1.21.4" type="f1a62948:ProjectNode" />
+                <item name="fabric" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
-                <item name="neoforge" type="2d1252cf:ModuleNode" />
+                <item name="LYIVXsCore 1.21.4" type="f1a62948:ProjectNode" />
+                <item name="fabric" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LYIVXsCore" type="f1a62948:ProjectNode" />
-                <item name="neoforge" type="2d1252cf:ModuleNode" />
+                <item name="LYIVXsCore 1.21.4" type="f1a62948:ProjectNode" />
+                <item name="fabric" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
+                <item name="loom" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -108,7 +202,7 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2mcS5o7ELeAoanAxEQ4NXufX6kZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -117,19 +211,41 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Minecraft Client (:fabric).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Minecraft Client (:fabric).executor&quot;: &quot;Debug&quot;,
     &quot;Application.Minecraft Client (:neoforge).executor&quot;: &quot;Run&quot;,
     &quot;Application.Minecraft Server (:fabric).executor&quot;: &quot;Debug&quot;,
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
     &quot;Gradle.Build LYIVXs Furniture Mod 1.21.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build LYIVXsCore 1.21.4.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.Build LYIVXsCore.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.Build LYIVXsPalCards.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXs Furniture Mod 1.21 [build].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXs Furniture Mod 1.21 [clean].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXs Furniture Mod 1.21:fabric [build].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXs Furniture Mod 1.21:neoforge [build].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXs Furniture Mod 1.21:neoforge [runClient].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.1:fabric [runClient].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [build] (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [cleanEclipseRuns].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [configureClientLaunch].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [configureLaunch].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [genEclipseRuns].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [generateDLIConfig].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [init].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [runClient].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4 [transformProductionFabric].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4:fabric [:fabric:dev.architectury.transformer.TransformerRuntime.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4:fabric [genEclipseRuns].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore 1.21.4:fabric [runClient].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.LYIVXsCore [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore [jar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore [sourcesJar].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXsCore:common [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore:common [jar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LYIVXsCore:common [sourcesJar].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXsCore:fabric [build].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXsCore:fabric [runClient].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXsCore:neoforge [build].executor&quot;: &quot;Run&quot;,
@@ -139,14 +255,18 @@
     &quot;Gradle.LYIVXsPalCards:fabric [runClient].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXsPalCards:neoforge [clean].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.LYIVXsPalCards:neoforge [runClient].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WorkSpaces/LYIVXsCore&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/WorkSpaces/LYIVXsCore 1.21.4/common/src/main/resources/data/ls_core/ls_core/entries&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -155,66 +275,23 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WorkSpaces\LYIVXsCore\common\src\main\resources" />
-      <recent name="D:\WorkSpaces\LYIVXsCore\common\src\main\java\net\lyivx\ls_core\common" />
-      <recent name="D:\WorkSpaces\LYIVXsCore\fabric\src\main\java\net\lyivx\ls_core" />
-      <recent name="#" />
-      <recent name="D:\WorkSpaces\LYIVXsCore\common\src\main\java\net\lyivx\ls_core" />
+      <recent name="E:\WorkSpaces\LYIVXsCore 1.21.4\common\src\main\resources\data\ls_core\ls_core\entries" />
+      <recent name="E:\WorkSpaces\LYIVXsCore 1.21.4\common\src\main\resources" />
+      <recent name="E:\WorkSpaces\LYIVXsCore 1.21.4\common\src\main\java\net\lyivx\ls_core\client\screens\widgets" />
+      <recent name="E:\WorkSpaces\LYIVXsCore 1.21.4\common\src\main\java\net\lyivx\ls_core" />
+      <recent name="E:\WorkSpaces\LYIVXsCore 1.21.4\common\src\main\java\net\lyivx\ls_core\common\config" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.lyivx.ls_core.client.screens" />
       <recent name="net.lyivx.ls_palcards.common.items" />
       <recent name="net.lyivx.ls_palcards.registry" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.LYIVXsCore:neoforge [build]">
-    <configuration name="LYIVXsCore:common [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Application.Minecraft Client (:fabric)">
+    <configuration name="LYIVXsCore 1.21.4 [build]" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/common" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="LYIVXsCore:fabric [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/fabric" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="LYIVXsCore:neoforge [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/common" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
@@ -233,18 +310,18 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="LYIVXsPalCards [transformProductionFabric]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LYIVXsCore 1.21.4 [generateDLIConfig]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="transformProductionFabric" />
+            <option value="generateDLIConfig" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -255,18 +332,18 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="LYIVXsPalCards [transformProductionNeoForge]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LYIVXsCore 1.21.4 [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="transformProductionNeoForge" />
+            <option value="runClient" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -275,26 +352,78 @@
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="LYIVXsCore 1.21.4:fabric [genEclipseRuns]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/fabric" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="genEclipseRuns" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="LYIVXsCore 1.21.4:fabric [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/fabric" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Gradle.LYIVXsCore 1.21.4 [build]" />
+      <item itemvalue="Gradle.LYIVXsCore 1.21.4 [generateDLIConfig]" />
+      <item itemvalue="Gradle.LYIVXsCore 1.21.4 [runClient]" />
+      <item itemvalue="Gradle.LYIVXsCore 1.21.4:fabric [genEclipseRuns]" />
+      <item itemvalue="Gradle.LYIVXsCore 1.21.4:fabric [runClient]" />
       <item itemvalue="Application.Minecraft Client (:fabric)" />
       <item itemvalue="Application.Minecraft Client (:neoforge)" />
       <item itemvalue="Application.Minecraft Server (:fabric)" />
       <item itemvalue="Application.Minecraft Server (:neoforge)" />
-      <item itemvalue="Gradle.LYIVXsCore:common [clean]" />
-      <item itemvalue="Gradle.LYIVXsCore:neoforge [build]" />
-      <item itemvalue="Gradle.LYIVXsCore:fabric [build]" />
-      <item itemvalue="Gradle.LYIVXsPalCards [transformProductionFabric]" />
-      <item itemvalue="Gradle.LYIVXsPalCards [transformProductionNeoForge]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.LYIVXsCore:neoforge [build]" />
-        <item itemvalue="Gradle.LYIVXsCore:common [clean]" />
-        <item itemvalue="Gradle.LYIVXsCore:fabric [build]" />
-        <item itemvalue="Gradle.LYIVXsPalCards [transformProductionNeoForge]" />
-        <item itemvalue="Gradle.LYIVXsPalCards [transformProductionFabric]" />
+        <item itemvalue="Gradle.LYIVXsCore 1.21.4:fabric [runClient]" />
+        <item itemvalue="Gradle.LYIVXsCore 1.21.4 [runClient]" />
+        <item itemvalue="Gradle.LYIVXsCore 1.21.4:fabric [genEclipseRuns]" />
+        <item itemvalue="Gradle.LYIVXsCore 1.21.4 [generateDLIConfig]" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +500,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739584509649</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Release">
+      <option name="closed" value="true" />
+      <created>1739641597902</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739641597902</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
