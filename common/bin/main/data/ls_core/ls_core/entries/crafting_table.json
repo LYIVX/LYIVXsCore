@@ -1,0 +1,53 @@
+{
+  "category": "crafting_systems",
+  "title": "Crafting Table",
+  "iconType": "BLOCK",
+  "icon": "minecraft:crafting_table",
+  "pages": [
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "The Foundation of Minecraft Crafting",
+          "text": "The [[entry:crafting_table:Crafting Table]] is the cornerstone of Minecraft's crafting system. This essential block transforms a 2x2 crafting grid into a full 3x3 workspace, unlocking the ability to create complex items and tools that would be impossible with just your hands.\n\nWhen you first start in Minecraft, you're limited to basic crafting in your inventory's 2x2 grid. This allows you to create simple items like [[entry:crafting_table:wooden planks]], [[entry:crafting_table:sticks]], and [[entry:crafting_table:torches]]. However, to progress beyond the most basic tools and items, you'll need to craft a crafting table.\n\nThe crafting table opens up a world of possibilities, from [[entry:crafting_table:advanced tools]] and [[entry:crafting_table:weapons]] to [[entry:crafting_table:decorative blocks]] and [[entry:crafting_table:redstone components]]. It's the first major milestone in any Minecraft player's journey."
+        },
+        { 
+          "type": "showcase", 
+          "items": ["minecraft:crafting_table"] 
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Crafting Table Recipe",
+          "recipeType": "crafting", 
+          "recipeId": "minecraft:crafting_table" 
+        },
+        { 
+          "type": "text", 
+          "title": "Crafting Table Usage",
+          "text": "To use a crafting table, simply right-click on it to open the 3x3 crafting interface. The larger grid allows for more complex recipes that require specific arrangements of materials.\n\nSome recipes, like [[entry:crafting_table:shaped recipes]], require items to be placed in exact positions. For example, a [[entry:crafting_table:pickaxe]] needs three material blocks in the top row and two sticks in the center column. Other recipes, like [[entry:crafting_table:shapeless recipes]], only care about having the right ingredients, regardless of their arrangement.\n\nThe crafting table is also essential for creating [[entry:crafting_table:advanced materials]] like [[entry:crafting_table:books]], [[entry:crafting_table:chests]], and [[entry:crafting_table:furnaces]]. Without it, you'd be stuck with the most basic survival tools."
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Example: Diamond Pickaxe",
+          "recipeType": "crafting", 
+          "recipeId": "minecraft:diamond_pickaxe" 
+        },
+        { 
+          "type": "text", 
+          "title": "Advanced Crafting Tips",
+          "text": "The crafting table is just the beginning of your crafting journey. Once you have one, you can start building more sophisticated crafting stations like the [[entry:furnace:Furnace]] for smelting ores, the [[entry:smithing_table:Smithing Table]] for upgrading tools, and the [[entry:brewing_stand:Brewing Stand]] for creating potions.\n\nRemember that the crafting table is a permanent block - once placed, it stays where you put it until you break it. This makes it perfect for setting up a dedicated crafting area in your base. Many players create organized workshops with multiple crafting tables for different purposes, along with storage chests and other crafting stations.\n\nThe crafting table is also essential for creating [[entry:crafting_table:redstone components]] like [[entry:crafting_table:repeaters]], [[entry:crafting_table:comparators]], and [[entry:crafting_table:dispensers]], which are crucial for building complex machines and automated systems."
+        }
+      ]
+    }
+  ]
+}
+
+

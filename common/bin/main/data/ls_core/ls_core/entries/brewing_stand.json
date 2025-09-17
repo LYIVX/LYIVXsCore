@@ -1,0 +1,51 @@
+{
+  "category": "crafting_systems",
+  "title": "Brewing Stand",
+  "iconType": "BLOCK",
+  "icon": "minecraft:brewing_stand",
+  "pages": [
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "The Art of Potion Brewing",
+          "text": "The [[entry:brewing_stand:Brewing Stand]] is a specialized crafting station dedicated to the creation of potions, splash potions, and lingering potions. This mystical workstation allows players to combine various ingredients to create powerful magical effects that can enhance abilities, provide protection, or inflict status effects on enemies.\n\nPotion brewing is one of the most complex crafting systems in Minecraft, requiring knowledge of [[entry:brewing_stand:base ingredients]], [[entry:brewing_stand:modifiers]], and [[entry:brewing_stand:brewing times]]. Unlike the [[entry:crafting_table:crafting table]] which creates items instantly, brewing is a time-based process that requires careful planning and ingredient management.\n\nThe brewing stand operates on a unique three-slot system - the bottom slot holds the base potion, while the top three slots can accept various ingredients to modify the potion's effects. This system allows for complex combinations and powerful effects that can significantly impact gameplay and combat encounters."
+        },
+        { 
+          "type": "showcase", 
+          "items": ["minecraft:brewing_stand"] 
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Brewing Stand Recipe",
+          "recipeType": "crafting", 
+          "recipeId": "minecraft:brewing_stand" 
+        },
+        { 
+          "type": "text", 
+          "title": "Brewing Stand Operation",
+          "text": "To use a brewing stand, right-click on it to open the brewing interface. The bottom slot accepts base potions (like [[entry:brewing_stand:awkward potion]] or [[entry:brewing_stand:water bottles]]), while the top three slots can hold various ingredients that modify the potion's effects.\n\nCommon base ingredients include [[entry:brewing_stand:nether wart]] for creating awkward potions, [[entry:brewing_stand:redstone]] for extending duration, [[entry:brewing_stand:glowstone]] for increasing potency, and [[entry:brewing_stand:gunpowder]] for creating splash potions. Each ingredient provides specific modifications to the base potion.\n\nThe brewing process takes time - each ingredient requires several seconds to fully integrate into the potion. The progress bar shows how close the current brewing step is to completion. Multiple ingredients can be added sequentially to create complex potions with multiple effects."
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Example: Regeneration Potion",
+          "recipeType": "brewing", 
+          "items": ["minecraft:ghast_tear", "minecraft:awkward_potion", "minecraft:potion{Potion:regeneration}"] 
+        },
+        { 
+          "type": "text", 
+          "title": "Advanced Potion Crafting",
+          "text": "The brewing stand represents the pinnacle of magical crafting in Minecraft. While the [[entry:crafting_table:crafting table]] creates physical items and the [[entry:furnace:furnace]] processes materials, the brewing stand creates magical effects that can transform gameplay.\n\nPotion brewing requires extensive knowledge of ingredients and their effects. [[entry:brewing_stand:Nether wart]] is essential for creating base potions, while [[entry:brewing_stand:blaze powder]] provides the fuel needed to power the brewing process. Understanding ingredient combinations is crucial for creating effective potions.\n\nThe brewing stand system encourages experimentation and knowledge gathering. Players must discover which ingredients create which effects, and how to combine them for maximum benefit. This makes potion brewing one of the most rewarding and complex aspects of Minecraft's crafting system.\n\nConsider building your brewing stand in a dedicated alchemy laboratory, complete with ingredient storage and reference materials. The brewing stand is a testament to Minecraft's depth and complexity, offering players the ability to create powerful magical effects that can significantly impact their survival and combat capabilities."
+        }
+      ]
+    }
+  ]
+}
