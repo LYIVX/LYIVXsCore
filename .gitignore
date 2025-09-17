@@ -1,21 +1,40 @@
-.gradle
-**/build/
-!src/**/build/
+# Gradle
+.gradle/
+build/
+common/build/
+fabric/build/
+fabric/run/
+fabric/gradle/
+neoforge/build/
+neoforge/run/
+neoforge/gradle/
+out/
+bin/
 
-# Ignore Gradle GUI config
-gradle-app.setting
+# Minecraft run dirs (Fabric/NeoForge dev runs)
+run/
+runClient/
+runServer/
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
-
-# Avoid ignore Gradle wrappper properties
-!gradle-wrapper.properties
-
-# Cache of project
-.gradletasknamecache
-
-# Eclipse Gradle plugin generated files
-# Eclipse Core
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
 .project
-# JDT-specific (Eclipse Java Development Tools)
 .classpath
+.settings/
+.vscode/
+.run/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Logs, dumps
+logs/
+*.log
+*.hprof
+
+# Caches
+.loom/

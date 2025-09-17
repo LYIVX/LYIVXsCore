@@ -1,198 +1,1443 @@
-[20:25:04] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21 with Fabric Loader 0.16.5
-[20:25:04] [main/WARN] (FabricLoader/Resolution) Warnings were found!
- - Mod 'LYIVX's PalCards' (ls_core) 1.0.0-SNAPSHOT recommends any version of modmenu, which is missing!
+[04:10:20] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.4 with Fabric Loader 0.17.2
+[04:10:21] [main/WARN] (FabricLoader/Resolution) Warnings were found!
+ - Mod 'LYIVX's Core' (ls_core) 1.1.5 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[20:25:04] [main/INFO] (FabricLoader) Loading 59 mods:
-	- architectury 13.0.6
-	- fabric-api 0.102.0+1.21
-	- fabric-api-base 0.4.42+6573ed8cd1
-	- fabric-api-lookup-api-v1 1.6.68+b5597344d1
-	- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
-	- fabric-block-api-v1 1.0.22+0af3f5a77c
-	- fabric-block-view-api-v2 1.0.10+6573ed8cd1
-	- fabric-blockrenderlayer-v1 1.1.52+0af3f5a77c
-	- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
-	- fabric-command-api-v1 1.2.49+f71b366fd1
-	- fabric-command-api-v2 2.2.28+6ced4dd9d1
-	- fabric-commands-v0 0.2.66+df3654b3d1
-	- fabric-content-registries-v0 8.0.16+b5597344d1
-	- fabric-convention-tags-v1 2.0.19+7f945d5bd1
-	- fabric-convention-tags-v2 2.5.0+c5e2b5c6d1
-	- fabric-crash-report-info-v1 0.2.29+0af3f5a77c
-	- fabric-data-attachment-api-v1 1.1.27+6a6dfa19d1
-	- fabric-data-generation-api-v1 20.2.16+16c4ae25d1
-	- fabric-dimensions-v1 4.0.0+6fc22b997c
-	- fabric-entity-events-v1 1.6.12+6fc22b997c
-	- fabric-events-interaction-v0 0.7.12+ba9dae06d1
-	- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
-	- fabric-gametest-api-v1 2.0.4+6fc22b99d1
-	- fabric-item-api-v1 11.0.0+afdfc9217c
-	- fabric-item-group-api-v1 4.1.4+78017270d1
-	- fabric-key-binding-api-v1 1.0.47+0af3f5a77c
-	- fabric-keybindings-v0 0.2.45+df3654b37c
-	- fabric-lifecycle-events-v1 2.3.12+6c1df360d1
-	- fabric-loot-api-v2 3.0.14+3f89f5a5d1
-	- fabric-loot-api-v3 1.0.2+3f89f5a5d1
-	- fabric-message-api-v1 6.0.13+6573ed8cd1
-	- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
-	- fabric-networking-api-v1 4.2.2+60c3209bd1
-	- fabric-object-builder-api-v1 15.2.0+a551f7a4d1
-	- fabric-particles-v1 4.0.2+6573ed8cd1
-	- fabric-recipe-api-v1 5.0.12+65089712d1
-	- fabric-registry-sync-v0 5.1.2+60c3209bd1
-	- fabric-renderer-api-v1 3.4.0+c705a49cd1
-	- fabric-renderer-indigo 1.7.0+c705a49cd1
-	- fabric-renderer-registries-v1 3.2.68+df3654b3d1
-	- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
-	- fabric-rendering-fluids-v1 3.1.6+b55973447c
-	- fabric-rendering-v0 1.1.71+df3654b3d1
-	- fabric-rendering-v1 5.0.5+df16efd0d1
-	- fabric-resource-conditions-api-v1 4.3.0+8dc279b1d1
-	- fabric-resource-loader-v0 1.3.0+56599129d1
-	- fabric-screen-api-v1 2.0.24+b55973447c
-	- fabric-screen-handler-api-v1 1.3.86+b5597344d1
-	- fabric-sound-api-v1 1.0.23+6573ed8cd1
-	- fabric-transfer-api-v1 5.1.16+3dccd343d1
-	- fabric-transitive-access-wideners-v1 6.1.0+176f9036d1
-	- fabricloader 0.16.5
-	- generated_0ca8cf2 1.0.0
+ - Mod 'Furnection' (ls_furniture) 1.0.9 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[04:10:21] [main/INFO] (FabricLoader) Loading 59 mods:
+	- architectury 15.0.3
+	- fabric-api 0.116.1+1.21.4
+	- fabric-api-base 0.4.54+b47eab6b04
+	- fabric-api-lookup-api-v1 1.6.86+b1caf1e904
+	- fabric-biome-api-v1 15.0.6+b1c29d8e04
+	- fabric-block-api-v1 1.0.31+7feeb73304
+	- fabric-block-view-api-v2 1.0.19+7feeb73304
+	- fabric-blockrenderlayer-v1 2.0.8+7feeb73304
+	- fabric-client-gametest-api-v1 4.1.0+44a0820d04
+	- fabric-client-tags-api-v1 1.1.29+20ea1e2304
+	- fabric-command-api-v1 1.2.62+f71b366f04
+	- fabric-command-api-v2 2.2.41+e496eb1504
+	- fabric-commands-v0 0.2.79+df3654b304
+	- fabric-content-registries-v0 9.1.17+7feeb73304
+	- fabric-convention-tags-v1 2.1.15+7f945d5b04
+	- fabric-convention-tags-v2 2.12.1+e359e31604
+	- fabric-crash-report-info-v1 0.3.6+7feeb73304
+	- fabric-data-attachment-api-v1 1.5.2+2d7e411e04
+	- fabric-data-generation-api-v1 22.2.10+20ea1e2304
+	- fabric-dimensions-v1 4.0.10+7feeb73304
+	- fabric-entity-events-v1 2.0.13+1934821104
+	- fabric-events-interaction-v0 4.0.3+a4eebcf004
+	- fabric-game-rule-api-v1 1.0.63+7d48d43904
+	- fabric-gametest-api-v1 2.0.24+7feeb73304
+	- fabric-item-api-v1 11.2.0+42f2d2ba04
+	- fabric-item-group-api-v1 4.2.0+fcb9601404
+	- fabric-key-binding-api-v1 1.0.57+7d48d43904
+	- fabric-keybindings-v0 0.2.55+df3654b304
+	- fabric-lifecycle-events-v1 2.5.4+bf2a60eb04
+	- fabric-loot-api-v2 3.0.36+3f89f5a504
+	- fabric-loot-api-v3 1.0.24+203e6b2304
+	- fabric-message-api-v1 6.0.25+7feeb73304
+	- fabric-model-loading-api-v1 4.3.0+ae23723504
+	- fabric-networking-api-v1 4.3.10+8998135104
+	- fabric-object-builder-api-v1 18.0.11+7d48d43904
+	- fabric-particles-v1 4.0.14+7feeb73304
+	- fabric-recipe-api-v1 8.0.9+160b66fa04
+	- fabric-registry-sync-v0 6.1.8+742bac2904
+	- fabric-renderer-api-v1 5.0.3+50f0feb204
+	- fabric-renderer-indigo 2.0.3+50f0feb204
+	- fabric-rendering-data-attachment-v1 0.3.57+73761d2e04
+	- fabric-rendering-fluids-v1 3.1.19+7feeb73304
+	- fabric-rendering-v1 10.2.1+0d31b09f04
+	- fabric-resource-conditions-api-v1 5.0.13+203e6b2304
+	- fabric-resource-loader-v0 3.0.14+e359e31604
+	- fabric-screen-api-v1 2.0.38+7feeb73304
+	- fabric-screen-handler-api-v1 1.3.115+7feeb73304
+	- fabric-sound-api-v1 1.0.32+7feeb73304
+	- fabric-tag-api-v1 1.0.5+7d48d43904
+	- fabric-transfer-api-v1 5.4.9+efa825c904
+	- fabric-transitive-access-wideners-v1 6.3.2+56e78b9b04
+	- fabricloader 0.17.2
+	- generated_86bf451 1.0.0
 	- java 21
-	- jei 19.8.2.99
-	- ls_core 1.0.0-SNAPSHOT
-	- minecraft 1.21
+	- ls_core 1.1.5
+	- ls_furniture 1.0.9
+	- minecraft 1.21.4
 	- mixinextras 0.4.1
-	- resourcefullib 3.0.10
-[20:25:04] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/tommy/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/51ee0a44ab05f6fddd66b09e66b3a16904f9c55d/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
-[20:25:04] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[20:25:04] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[20:25:04] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[20:25:07] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:25:09] [Datafixer Bootstrap/INFO] (Minecraft) 226 Datafixer optimizations took 445 milliseconds
-[20:25:22] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:25:22] [Render thread/INFO] (Minecraft) Setting user: Player112
-[20:25:22] [Render thread/INFO] (Minecraft) [STDOUT]: Config will be saved to: D:\WorkSpaces\LYIVXsCore\fabric\run\config\ls_core\ls_core_config.json
-[20:25:23] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
-[20:25:23] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id architectury:spawn_entity_packet
-[20:25:24] [Render thread/INFO] (PluginCaller) Sending ConfigManager...
-[20:25:24] [Render thread/INFO] (PluginCaller) Sending ConfigManager took 1.534 ms
-[20:25:25] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
-[20:25:28] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, generated_0ca8cf2, jei
-[20:25:28] [Worker-Main-3/INFO] (Minecraft) Found unifont_all_no_pua-15.1.05.hex, loading
-[20:25:28] [Worker-Main-3/INFO] (Minecraft) Found unifont_jp_patch-15.1.05.hex, loading
-[20:25:30] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
-[20:25:30] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[20:25:30] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (HyperX QuadCast S)
-[20:25:30] [Render thread/INFO] (Minecraft) Sound engine started
-[20:25:30] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[20:25:30] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[20:25:30] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[20:25:30] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[20:25:30] [Render thread/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[20:25:30] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[20:25:30] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[20:25:30] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[20:25:30] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[20:25:31] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[20:25:31] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[20:25:31] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[20:25:31] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[20:25:31] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[20:25:31] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[20:25:31] [Render thread/INFO] (Minecraft) Created: 256x256x0 jei:textures/atlas/gui.png-atlas
-[20:26:08] [Render thread/INFO] (Minecraft) Loaded 1290 recipes
-[20:26:11] [Render thread/INFO] (Minecraft) Loaded 1399 advancements
-[20:26:12] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 64 new biomes in 1.124 ms
-[20:26:12] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21
-[20:26:12] [Server thread/INFO] (Minecraft) Generating keypair
-[20:26:13] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[20:26:14] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[20:26:14] [Render thread/INFO] (Minecraft) Preparing spawn area: 12%
-[20:26:14] [Render thread/INFO] (Minecraft) Time elapsed: 536 ms
-[20:26:14] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
-[20:26:14] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
-[20:26:15] [Server thread/ERROR] (Minecraft) Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: ls_core:dark_oak_tree_card'
-[20:26:15] [Server thread/ERROR] (Minecraft) Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: ls_core:mangrove_tree_card'
-[20:26:15] [Server thread/ERROR] (Minecraft) Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: ls_core:cherry_tree_card'
-[20:26:15] [Server thread/ERROR] (Minecraft) Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: ls_core:oak_tree_card'
-[20:26:15] [Server thread/INFO] (Minecraft) Player112[local:E:401d194d] logged in with entity id 1 at (-1.4935890868715418, -60.0, 2.439378034712633)
-[20:26:15] [Server thread/INFO] (Minecraft) Player112 joined the game
-[20:26:15] [Render thread/INFO] (LoggedTimer) Starting JEI...
-[20:26:15] [Render thread/INFO] (PluginCaller) Registering item subtypes...
-[20:26:15] [Render thread/INFO] (PluginCallerTimerRunnable) Registering item subtypes: jei:minecraft took 25.61 milliseconds
-[20:26:15] [Render thread/INFO] (PluginCaller) Registering item subtypes took 26.49 ms
-[20:26:15] [Render thread/INFO] (PluginCaller) Registering fluid subtypes...
-[20:26:15] [Render thread/INFO] (PluginCallerTimerRunnable) Registering fluid subtypes: jei:debug took 12.35 milliseconds
-[20:26:15] [Render thread/INFO] (PluginCaller) Registering fluid subtypes took 12.99 ms
-[20:26:15] [Render thread/INFO] (PluginCaller) Registering ingredients...
-[20:26:15] [Render thread/INFO] (PluginCallerTimerRunnable) Registering ingredients: jei:minecraft took 164.2 milliseconds
-[20:26:15] [Render thread/INFO] (PluginCaller) Registering ingredients took 165.2 ms
-[20:26:15] [Render thread/INFO] (PluginCaller) Registering Mod Info...
-[20:26:15] [Render thread/INFO] (PluginCaller) Registering Mod Info took 736.2 ?s
-[20:26:15] [Render thread/INFO] (PluginCaller) Registering categories...
-[20:26:16] [Render thread/INFO] (PluginCallerTimerRunnable) Registering categories: jei:minecraft took 73.36 milliseconds
-[20:26:16] [Render thread/INFO] (PluginCallerTimerRunnable) Registering categories: jei:internal took 13.67 milliseconds
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering categories took 88.60 ms
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering vanilla category extensions...
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering vanilla category extensions took 3.962 ms
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering recipe catalysts...
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering recipe catalysts took 1.658 ms
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering advanced plugins...
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering advanced plugins took 489.3 ?s
-[20:26:16] [Render thread/INFO] (LoggedTimer) Building recipe registry...
-[20:26:16] [Render thread/INFO] (LoggedTimer) Building recipe registry took 66.76 ms
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering recipes...
-[20:26:16] [Render thread/INFO] (PluginCallerTimerRunnable) Registering recipes: jei:minecraft took 228.9 milliseconds
-[20:26:16] [Render thread/INFO] (PluginCallerTimerRunnable) Registering recipes: jei:internal took 44.04 milliseconds
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering recipes took 274.5 ms
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering recipes transfer handlers...
-[20:26:16] [Render thread/INFO] (PluginCallerTimerRunnable) Registering recipes transfer handlers: jei:minecraft took 20.29 milliseconds
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering recipes transfer handlers took 21.39 ms
-[20:26:16] [Render thread/INFO] (LoggedTimer) Building runtime...
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering gui handlers...
-[20:26:16] [Render thread/INFO] (PluginCallerTimerRunnable) Registering gui handlers: jei:minecraft took 26.27 milliseconds
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering gui handlers took 35.14 ms
-[20:26:16] [Render thread/INFO] (PluginCaller) Registering Runtime...
-[20:26:16] [Render thread/INFO] (JeiGuiStarter) Starting JEI GUI
-[20:26:16] [Render thread/INFO] (LoggedTimer) Building ingredient list...
-[20:26:16] [Render thread/INFO] (LoggedTimer) Building ingredient list took 5.466 ms
-[20:26:16] [Render thread/INFO] (LoggedTimer) Building ingredient filter...
-[20:26:16] [Render thread/INFO] (IngredientFilter) Adding 1717 ingredients
-[20:26:16] [Render thread/INFO] (IngredientFilter) Added 1717/1717 ingredients
-[20:26:16] [Render thread/INFO] (LoggedTimer) Building ingredient filter took 382.6 ms
-[20:26:17] [Render thread/INFO] (PluginCallerTimerRunnable) Registering Runtime: jei:fabric_gui took 668.3 milliseconds
-[20:26:17] [Render thread/INFO] (PluginCaller) Registering Runtime took 669.1 ms
-[20:26:17] [Render thread/INFO] (LoggedTimer) Building runtime took 759.2 ms
-[20:26:17] [Render thread/INFO] (PluginCaller) Sending Runtime...
-[20:26:17] [Render thread/INFO] (PluginCaller) Sending Runtime took 503.7 ?s
-[20:26:17] [Render thread/INFO] (LoggedTimer) Starting JEI took 1.563 s
-[20:26:17] [Render thread/INFO] (Minecraft) Loaded 2 advancements
-[20:26:21] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[20:26:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[20:26:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[20:26:21] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[20:26:27] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[20:26:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[20:26:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[20:26:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[20:26:42] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[20:26:42] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[20:26:42] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[20:26:42] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[20:27:54] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[20:27:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[20:27:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[20:27:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[20:27:55] [Render thread/INFO] (Minecraft) Stopping!
-[20:27:55] [Server thread/INFO] (Minecraft) Player112 lost connection: Disconnected
-[20:27:55] [Server thread/INFO] (Minecraft) Player112 left the game
-[20:27:55] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
-[20:27:55] [Server thread/INFO] (Minecraft) Stopping server
-[20:27:55] [Server thread/INFO] (Minecraft) Saving players
-[20:27:55] [Server thread/INFO] (Minecraft) Saving worlds
-[20:27:55] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[20:27:55] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[20:27:55] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[20:27:55] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (New World): All chunks are saved
-[20:27:55] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:27:55] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:27:55] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
+	- resourcefullib 3.4.5
+[04:10:21] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/tommy/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[04:10:21] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[04:10:22] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[04:10:29] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04:10:33] [Datafixer Bootstrap/INFO] (Minecraft) 243 Datafixer optimizations took 1894 milliseconds
+[04:10:53] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:10:53] [Render thread/INFO] (Minecraft) Setting user: Player754
+[04:11:04] [Render thread/INFO] (NetworkManagerImpl) Registering C2S receiver with id ls_furniture:update_letter
+[04:11:04] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id ls_furniture:workstation_recipes
+[04:11:04] [Render thread/INFO] (ls_furniture) Initializing config registry for Furnection
+[04:11:04] [Render thread/INFO] (ls_furniture) Starting fuel registration
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:oak_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:spruce_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:birch_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:jungle_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:acacia_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:dark_oak_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:mangrove_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:cherry_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:bamboo_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:crimson_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_furniture) Registering fuel for item: ls_furniture:warped_furniture_pack
+[04:11:04] [Render thread/INFO] (ls_core) Looking for configuration providers...
+[04:11:04] [Render thread/INFO] (ls_core) Found provider: Furnection (ID: ls_furniture)
+[04:11:04] [Render thread/INFO] (ls_core) Initializing config for mod 'ls_furniture'
+[04:11:04] [Render thread/INFO] (ls_core)  > Config directory: E:\WorkSpaces\LYIVXsCore 1.21.4\fabric\run\config\Furnection
+[04:11:04] [Render thread/INFO] (ls_core)  > Config file path: E:\WorkSpaces\LYIVXsCore 1.21.4\fabric\run\config\Furnection\ls_furniture.json
+[04:11:04] [Render thread/INFO] (ls_core)  > Found existing config file. Loading...
+[04:11:04] [Render thread/INFO] (Minecraft) [STDOUT]: Config for [ls_furniture] will be saved to: E:\WorkSpaces\LYIVXsCore 1.21.4\fabric\run\config\Furnection\ls_furniture.json
+[04:11:04] [Render thread/INFO] (ls_furniture) Registered config spec for LYIVX's Furniture.
+[04:11:04] [Render thread/INFO] (ls_core)  > Config registered successfully for 'ls_furniture'
+
+[04:11:04] [Render thread/INFO] (ls_core) Total providers found: 1
+[04:11:04] [Render thread/INFO] (NetworkManagerImpl) Registering S2C receiver with id architectury:spawn_entity_packet
+[04:11:05] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[04:11:06] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
+[04:11:09] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, generated_86bf451, ls_furniture
+[04:11:09] [Worker-Main-8/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
+[04:11:09] [Worker-Main-1/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
+[04:11:09] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:acacia_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:09] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:acacia_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:09] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:acacia_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:09] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:acacia_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:09] [Worker-Main-5/WARN] (Minecraft) File minecraft:sounds/block.amethyst_block.chime.ogg does not exist, cannot add it to event ls_furniture:event.mail_received
+[04:11:09] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:bamboo_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:09] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:bamboo_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:09] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:bamboo_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:09] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:bamboo_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:10] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:birch_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:10] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:birch_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:10] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:birch_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:10] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:birch_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:10] [Worker-Main-2/INFO] (ls_core) Starting documentation reload from Minecraft data reload
+[04:11:10] [Worker-Main-2/INFO] (ls_core) Found mods with documentation: []
+[04:11:11] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:cherry_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:11] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:cherry_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:11] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:cherry_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:11] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:cherry_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-5/WARN] (Minecraft) Texture ls_furniture:block/handles/handle_warped with size 5x4 limits mip level from 4 to 0
+[04:11:12] [Worker-Main-5/WARN] (Minecraft) minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:crimson_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:crimson_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:crimson_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:crimson_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:dark_oak_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:dark_oak_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:dark_oak_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:dark_oak_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:jungle_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:jungle_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:jungle_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-7/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:jungle_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-8/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:mangrove_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-8/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:mangrove_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-8/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:mangrove_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:12] [Worker-Main-8/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:mangrove_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-10/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:oak_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-10/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:oak_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-10/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:oak_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-10/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:oak_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-2/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:spruce_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-2/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:spruce_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-2/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:spruce_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-2/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:spruce_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-11/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:warped_barrel/ls_furniture' for variant: 'facing=down,open=true': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-11/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:warped_barrel/ls_furniture' for variant: 'facing=up,open=true': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-11/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:warped_barrel/ls_furniture' for variant: 'facing=up,open=false': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[04:11:13] [Worker-Main-11/WARN] (Minecraft) Exception loading blockstate definition: 'ls_furniture:warped_barrel/ls_furniture' for variant: 'facing=down,open=false': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Missing block model: 'ls_furniture:item/bushes/bamboo_bush'
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Missing block model: 'ls_furniture:item/rainbow_wool'
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:crimson_lamp#color=light_gray,facing=north,lit=true,powered=true,vertical=bottom,waterlogged=true:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:crimson_lamp#color=light_gray,facing=north,lit=true,powered=true,vertical=bottom,waterlogged=true:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:spruce_lamp#color=black,facing=down,lit=true,powered=true,vertical=bottom,waterlogged=true:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:spruce_lamp#color=black,facing=down,lit=true,powered=true,vertical=bottom,waterlogged=true:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:acacia_lamp#color=white,facing=south,lit=false,powered=true,vertical=middle,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:acacia_lamp#color=white,facing=south,lit=false,powered=true,vertical=middle,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:mangrove_lamp#color=magenta,facing=down,lit=false,powered=false,vertical=top,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:mangrove_lamp#color=magenta,facing=down,lit=false,powered=false,vertical=top,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:cherry_lamp#color=light_blue,facing=north,lit=true,powered=true,vertical=single,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:cherry_lamp#color=light_blue,facing=north,lit=true,powered=true,vertical=single,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:bamboo_lamp#color=default,facing=west,lit=false,powered=true,vertical=bottom,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:bamboo_lamp#color=default,facing=west,lit=false,powered=true,vertical=bottom,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:warped_lamp#color=light_gray,facing=north,lit=false,powered=false,vertical=bottom,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:warped_lamp#color=light_gray,facing=north,lit=false,powered=false,vertical=bottom,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:jungle_lamp#color=magenta,facing=down,lit=false,powered=false,vertical=single,waterlogged=true:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:jungle_lamp#color=magenta,facing=down,lit=false,powered=false,vertical=single,waterlogged=true:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:oak_lamp#color=purple,facing=south,lit=false,powered=true,vertical=single,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:oak_lamp#color=purple,facing=south,lit=false,powered=true,vertical=single,waterlogged=false:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:birch_lamp#color=yellow,facing=north,lit=true,powered=true,vertical=top,waterlogged=true:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:birch_lamp#color=yellow,facing=north,lit=true,powered=true,vertical=top,waterlogged=true:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:dark_oak_lamp#color=pink,facing=west,lit=true,powered=false,vertical=single,waterlogged=true:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:17] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:dark_oak_lamp#color=pink,facing=west,lit=true,powered=false,vertical=single,waterlogged=true:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:dark_oak_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:warped_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:bamboo_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:spruce_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:oak_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:jungle_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:crimson_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:acacia_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:cherry_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:birch_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Unresolved texture references in ls_furniture:mangrove_lamp#inventory:
+	#west-> #all
+	#down-> #all
+	#south-> #all
+	#east-> #all
+	#north-> #all
+	#up-> #all
+
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing textures in model ls_furniture:jungle_chest#inventory:
+    minecraft:textures/atlas/blocks.png:minecraft:block/jugle_planks
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof#facing=south,half=bottom,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_sofa#color=gray,facing=east,type=right,waterlogged=true:
+    #0
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof#facing=north,half=bottom,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_hollow_stripped_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_hollow_log#axis=z,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_hollow_stripped_block#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=west,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=north,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=north,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof#facing=south,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=west,half=top,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof#facing=south,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_hollow_block#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof#facing=north,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_hollow_stem#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=west,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof#facing=west,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=north,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=west,half=bottom,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=west,half=bottom,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=south,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_hollow_log#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_hollow_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof#facing=north,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=south,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_hollow_log#axis=y,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_hollow_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=north,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_hollow_stripped_stem#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_hollow_stripped_stem#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=north,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof#facing=east,half=bottom,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=east,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof#facing=south,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=west,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_hollow_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=west,half=top,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=east,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof#facing=north,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:kettle#facing=west,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=north,half=top,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=east,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=north,half=top,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=north,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof#facing=east,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_hollow_stripped_log#axis=z,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=north,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=north,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=north,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof#facing=south,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_hollow_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof#facing=east,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_hollow_block#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=east,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=west,half=top,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_hollow_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_hollow_block#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_hollow_stripped_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof#facing=south,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_hollow_stem#axis=z,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_hollow_stripped_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof#facing=west,half=bottom,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=west,half=top,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=west,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof#facing=west,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=north,half=bottom,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof#facing=north,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=south,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof#facing=west,half=bottom,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof#facing=south,half=top,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=east,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_hollow_stripped_log#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof#facing=south,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof#facing=east,half=top,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_hollow_stripped_stem#axis=y,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_stool#color=green,facing=east,tucked=true,waterlogged=true:
+    #0
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=west,half=bottom,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_hollow_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=north,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=north,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_hollow_stripped_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=south,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=east,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_hollow_stripped_log#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=west,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=west,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_hollow_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=north,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_hollow_stripped_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=east,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=west,half=bottom,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=east,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_hollow_log#axis=x,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof#facing=east,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_hollow_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=west,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=east,half=top,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof#facing=south,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_hollow_stripped_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=north,half=top,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof#facing=east,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof#facing=north,half=bottom,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof#facing=east,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=south,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=east,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof#facing=west,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof#facing=east,half=top,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=east,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_hollow_stripped_log#axis=y,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof#facing=south,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_hollow_stripped_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof#facing=north,half=bottom,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_hollow_stripped_log#axis=y,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_hollow_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof#facing=east,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof#facing=west,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_hollow_stem#axis=x,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_hollow_stripped_log#axis=y,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_hollow_stripped_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=east,half=top,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_hollow_stripped_log#axis=z,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=south,half=top,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof#facing=west,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_hollow_stem#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof#facing=west,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof#facing=north,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=north,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof#facing=east,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_hollow_stripped_stem#axis=z,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_hollow_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=west,half=bottom,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_hollow_stripped_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=south,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=north,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof#facing=east,half=top,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof#facing=north,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof#facing=east,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=east,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof#facing=south,half=bottom,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=south,half=top,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_hollow_log#axis=y,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=north,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=south,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=west,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof#facing=north,half=bottom,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof#facing=east,half=top,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=south,half=top,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=south,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_bed#color=cyan,facing=south,occupied=false,part=foot:
+    #0
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof#facing=west,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=north,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_hollow_stripped_block#axis=y,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:electrical_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:kettle#facing=north,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=south,half=bottom,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=north,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=west,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof#facing=north,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_hollow_stripped_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_hollow_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_hollow_log#axis=y,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=west,half=top,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof#facing=west,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof#facing=south,half=top,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:kettle#facing=south,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_hollow_stripped_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=south,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof#facing=north,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:construction_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_hollow_stripped_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof#facing=south,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_hollow_log#axis=x,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=west,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_hollow_block#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=south,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=south,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_hollow_stripped_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=west,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_hollow_stem#axis=y,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_hollow_log#axis=x,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof#facing=north,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof#facing=south,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_hollow_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_hollow_stem#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=north,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_hollow_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_hollow_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=north,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof#facing=east,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:kettle#facing=east,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_hollow_stripped_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_hollow_stripped_log#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_hollow_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_hollow_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=south,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_lamp#color=light_gray,facing=north,lit=true,powered=true,vertical=bottom,waterlogged=true:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_hollow_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof#facing=south,half=bottom,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof#facing=north,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof#facing=west,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=west,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=west,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof#facing=west,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=west,half=bottom,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof#facing=south,half=bottom,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_hollow_stripped_stem#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof#facing=west,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=east,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=west,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof#facing=south,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=west,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_hollow_log#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=north,half=top,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_hollow_stripped_stem#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=north,half=top,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof#facing=north,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof#facing=west,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof#facing=east,half=bottom,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof#facing=south,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_hollow_stripped_block#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof#facing=north,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof#facing=west,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_hollow_stripped_block#axis=x,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_hollow_stripped_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=east,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_hollow_stem#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof#facing=north,half=top,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof#facing=south,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=north,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=west,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=north,half=top,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=west,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=south,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_hollow_stripped_log#axis=z,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_hollow_stripped_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof#facing=south,half=bottom,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_hollow_stripped_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_hollow_stripped_stem#axis=x,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=south,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=west,half=top,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=west,half=top,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof#facing=west,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=east,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof#facing=north,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_hollow_log#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_furniture_pack#inventory:
+    particle
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=south,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=east,half=top,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof#facing=north,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_hollow_stripped_log#axis=x,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=west,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_hollow_stripped_log#axis=x,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof#facing=north,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=east,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=east,half=top,is_double=true,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=west,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=east,half=top,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_hollow_stripped_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=north,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof#facing=east,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=south,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof#facing=west,half=bottom,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_hollow_stripped_log#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=south,half=top,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:mangrove_roof_shallow#facing=east,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_hollow_stripped_log#axis=x,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof_shallow#facing=east,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof#facing=north,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=north,half=top,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof_shallow#facing=west,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_hollow_log#inventory:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof_shallow#facing=north,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:dark_oak_roof#facing=east,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_hollow_log#axis=z,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=west,half=top,is_double=false,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_hollow_stripped_stem#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_hollow_stripped_log#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof#facing=east,half=bottom,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof_shallow#facing=east,half=bottom,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof#facing=south,half=top,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=south,half=bottom,is_double=true,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_roof#facing=west,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof#facing=north,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:bamboo_roof#facing=east,half=top,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_hollow_log#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:jungle_roof#facing=north,half=top,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof#facing=south,half=bottom,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof#facing=east,half=top,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_hollow_log#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=south,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof#facing=south,half=top,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=east,half=top,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=east,half=bottom,is_double=false,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_hollow_log#axis=y,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=south,half=bottom,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof#facing=west,half=bottom,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:warped_hollow_stem#axis=z,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:birch_roof#facing=west,half=bottom,shape=inner_right,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:acacia_roof_shallow#facing=south,half=bottom,is_double=true,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:crimson_roof_shallow#facing=south,half=top,is_double=false,shape=inner_left,waterlogged=true:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof#facing=west,half=top,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof_shallow#facing=south,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:cherry_roof#facing=west,half=bottom,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:spruce_roof_shallow#facing=west,half=bottom,is_double=true,shape=inner_right,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:oak_roof_shallow#facing=east,half=top,is_double=false,shape=inner_left,waterlogged=false:
+    #missing
+[04:11:21] [Worker-Main-8/WARN] (Minecraft) Missing texture references in model ls_furniture:kettle#inventory:
+    #missing
+[04:11:22] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (HyperX QuadCast S)
+[04:11:22] [Render thread/INFO] (Minecraft) Sound engine started
+[04:11:22] [Render thread/INFO] (Minecraft) Created: 1024x1024x0 minecraft:textures/atlas/blocks.png-atlas
+[04:11:22] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[04:11:22] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[04:11:22] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[04:11:22] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[04:11:22] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[04:11:22] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/chest.png-atlas
+[04:11:22] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[04:11:22] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[04:11:22] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[04:11:23] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[04:11:23] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[04:11:23] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[04:11:23] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[04:11:23] [Render thread/INFO] (ls_core) Documentation reload completed: 0 namespaces, 0 categories, 0 entries
+[04:15:11] [Render thread/WARN] (Minecraft) Missing data pack generated_6a8be59
+[04:15:11] [Render thread/INFO] (Minecraft) Found new data pack generated_86bf451, loading it automatically
+[04:15:13] [Worker-Main-11/INFO] (ls_core) Starting documentation reload from Minecraft data reload
+[04:15:13] [Worker-Main-11/INFO] (ls_core) Found mods with documentation: [ls_core]
+[04:15:13] [Render thread/INFO] (Minecraft) Loaded 1922 recipes
+[04:15:13] [Render thread/INFO] (Minecraft) Loaded 1481 advancements
+[04:15:13] [Render thread/INFO] (ls_core) Documentation reload completed: 1 namespaces, 3 categories, 11 entries
+[04:15:14] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 65 new biomes in 2.420 ms
+[04:15:14] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21.4
+[04:15:14] [Server thread/INFO] (Minecraft) Generating keypair
+[04:15:14] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[04:15:15] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[04:15:15] [Render thread/INFO] (Minecraft) Preparing spawn area: 51%
+[04:15:15] [Render thread/INFO] (Minecraft) Time elapsed: 508 ms
+[04:15:15] [Server thread/WARN] (TranslationConventionLogWarnings) 
+	Dev warning - Untranslated Item Tags detected. Please translate your item tags so other mods such as recipe viewers can properly display your tag's name.
+	The format desired is tag.item.<namespace>.<path> for the translation key with slashes in path turned into periods.
+	To disable this message, set this system property in your runs: `-Dfabric-tag-conventions-v2.missingTagTranslationWarning=SILENCED`.
+	To see individual untranslated item tags found, set the system property to `-Dfabric-tag-conventions-v2.missingTagTranslationWarning=VERBOSE`.
+	Default is `SHORT`.
+
+[04:15:15] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[04:15:15] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[04:15:17] [Server thread/INFO] (Minecraft) Player754[local:E:106a60f5] logged in with entity id 1 at (-1.2909151281930848, -60.0, 2.194323156081871)
+[04:15:17] [Server thread/INFO] (Minecraft) Player754 joined the game
+[04:15:17] [Render thread/INFO] (Minecraft) Loaded 2 advancements
+[04:15:19] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[04:15:19] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[04:15:19] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[04:15:19] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[04:15:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101
+[04:15:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101
+[04:15:25] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:25] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:25] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:25] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:26] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:26] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:26] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:26] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:26] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:26] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=252, viewportHeight=101
+[04:15:26] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=252, viewportHeight=101
+[04:15:26] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=252, viewportHeight=101
+[04:15:26] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=12, newScroll=24, contentHeight=252, viewportHeight=101
+[04:15:27] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:27] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:27] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:27] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:27] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=252, viewportHeight=101
+[04:15:29] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:29] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:29] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:29] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:29] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:29] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:29] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=252, viewportHeight=101
+[04:15:42] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:42] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:42] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:42] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:15:42] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101
+[04:26:39] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:26:40] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:27:00] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:27:00] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:27:00] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:27:02] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101
+[04:27:02] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101
+[04:27:05] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:27:12] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:27:15] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101
+[04:27:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101
+[04:33:56] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:56] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:56] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:56] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:56] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:56] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:33:57] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:34:10] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:34:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:34:18] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:34:20] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:34:20] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:34:21] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:34:24] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:35:03] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:03] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:03] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:03] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=12, newScroll=24, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:35:04] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=12, newScroll=24, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:16] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=12, newScroll=24, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:17] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:19] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=207, viewportHeight=101, maxScroll=106
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=12, newScroll=16, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:22] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:23] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=12, oldScroll=0, newScroll=0, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:38] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:51] [Thread-0/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at ls_core-1.1.5-Common-dev-1.21.4.jar
+[04:41:52] [Thread-0/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Redefined 3 class(es) from E:\WorkSpaces\LYIVXsCore 1.21.4\common\build\devlibs\ls_core-1.1.5-Common-dev-1.21.4.jar in 196.8 ms
+[04:41:56] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:56] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:56] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:56] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:41:57] [Thread-0/INFO] (Minecraft) [STDOUT]: [Architectury Transformer] Detected File Modification at ls_core-1.1.5-Common-dev-1.21.4.jar
+[04:42:01] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:42:05] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:42:06] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:43:32] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:43:32] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:43:32] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:43:32] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[04:43:32] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=117, viewportHeight=101, maxScroll=16
+[05:01:42] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[05:01:42] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[05:01:42] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[05:01:42] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=12, newScroll=24, contentHeight=126, viewportHeight=101, maxScroll=25
+[05:01:42] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=126, viewportHeight=101, maxScroll=25
+[05:01:51] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=234, viewportHeight=101, maxScroll=133
+[05:01:51] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=234, viewportHeight=101, maxScroll=133
+[05:01:51] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=234, viewportHeight=101, maxScroll=133
+[05:01:51] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=234, viewportHeight=101, maxScroll=133
+[05:01:51] [Render thread/INFO] (Minecraft) [STDOUT]: Scrolling text: delta=-12, oldScroll=0, newScroll=12, contentHeight=234, viewportHeight=101, maxScroll=133

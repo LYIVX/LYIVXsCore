@@ -1,0 +1,51 @@
+{
+  "category": "crafting_systems",
+  "title": "Blast Furnace",
+  "iconType": "BLOCK",
+  "icon": "minecraft:blast_furnace",
+  "pages": [
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "High-Speed Ore Processing",
+          "text": "The [[entry:blast_furnace:Blast Furnace]] is a specialized smelting station designed specifically for processing ores and metal items. While it cannot process food or other materials, it smelts ores and metal items at twice the speed of a regular [[entry:furnace:furnace]], making it the ideal choice for players who need to process large quantities of metal quickly.\n\nThis advanced smelting station is essential for players who engage in extensive mining operations or who need to process large amounts of metal for building projects. The blast furnace can handle [[entry:blast_furnace:iron ore]], [[entry:blast_furnace:copper ore]], [[entry:blast_furnace:gold ore]], and other metal ores, converting them into ingots at double speed.\n\nThe blast furnace operates on the same principle as other smelting stations - it requires fuel in the bottom slot and items to be smelted in the top slot. However, its specialized design and increased temperature allow it to process metal items much faster than conventional furnaces."
+        },
+        { 
+          "type": "showcase", 
+          "items": ["minecraft:blast_furnace"] 
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Blast Furnace Recipe",
+          "recipeType": "crafting", 
+          "recipeId": "minecraft:blast_furnace" 
+        },
+        { 
+          "type": "text", 
+          "title": "Blast Furnace Operation",
+          "text": "To use a blast furnace, right-click on it to open the smelting interface. Place ores or metal items in the top slot and fuel in the bottom slot. The blast furnace will process metal items twice as fast as a regular furnace, making it perfect for large-scale metal processing operations.\n\nItems that can be processed in a blast furnace include [[entry:blast_furnace:iron ore]], [[entry:blast_furnace:copper ore]], [[entry:blast_furnace:gold ore]], [[entry:blast_furnace:raw iron]], [[entry:blast_furnace:raw copper]], [[entry:blast_furnace:raw gold]], and various metal tools and armor that can be smelted down into nuggets.\n\nThe blast furnace accepts the same fuel types as other smelting stations, including [[entry:blast_furnace:coal]], [[entry:blast_furnace:charcoal]], [[entry:blast_furnace:wood]], and [[entry:blast_furnace:blaze rods]]. The speed advantage makes it an excellent choice for players who need to process large quantities of metal quickly."
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Example: Copper Ingot Blasting",
+          "recipeType": "blasting", 
+          "recipeId": "minecraft:copper_ingot_from_blasting_raw_copper" 
+        },
+        { 
+          "type": "text", 
+          "title": "Advanced Metal Processing",
+          "text": "The blast furnace is part of a specialized trio of smelting stations, each optimized for different types of processing. While the blast furnace handles ores and metal items, the [[entry:smoker:Smoker]] processes food items, and the regular [[entry:furnace:Furnace]] can handle both food and ores.\n\nFor players building automated metal processing systems, the blast furnace's speed advantage makes it an excellent choice. Many players set up [[entry:blast_furnace:automated smelting systems]] using [[entry:blast_furnace:hoppers]] to continuously feed ores and fuel, creating efficient production lines for large-scale metal processing.\n\nThe blast furnace is particularly valuable for players who engage in extensive building projects that require large quantities of metal blocks, tools, and other metal items. By doubling the speed of ore processing, it significantly reduces the time required to gather and process the metal needed for ambitious construction projects.\n\nConsider building multiple blast furnaces if you frequently process large quantities of ores, as this will dramatically speed up your metal production workflow and allow you to focus on building and exploration rather than waiting for smelting operations to complete."
+        }
+      ]
+    }
+  ]
+}

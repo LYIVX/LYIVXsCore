@@ -1,0 +1,48 @@
+{
+  "category": "getting_started",
+  "title": "Inline Links Demo",
+  "iconType": "ITEM",
+  "icon": "minecraft:book",
+  "pages": [
+    {
+      "sections": [
+        {
+          "type": "text",
+          "title": "Inline Links in Text",
+          "text": "This text demonstrates the power of inline links! Click [[entry:welcome:Welcome]] to go to the welcome page, or [[category:getting_started:Getting Started]] to browse the getting started category. You can also use [[entry:crafting_table]] for shorter links.\n\nInline links work in any text section and can reference [[entry:furnace:furnaces]], [[entry:smoker:smokers]], and [[entry:blast_furnace:blast furnaces]] to help players navigate between related crafting systems."
+        },
+        {
+          "type": "showcase",
+          "items": ["minecraft:crafting_table"]
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "type": "text",
+          "title": "More Link Examples",
+          "text": "Here are more examples of inline links: [[entry:furnace:Furnace Guide]], [[entry:examples:Examples]], and [[category:crafting_systems:Crafting Systems]]. The links will appear in blue with underlines and be clickable!\n\nYou can also link to specific crafting stations like the [[entry:smithing_table:Smithing Table]] for equipment upgrades, the [[entry:brewing_stand:Brewing Stand]] for potion creation, and the [[entry:stonecutter:Stonecutter]] for architectural elements."
+        },
+        {
+          "type": "recipe",
+          "recipeType": "crafting",
+          "recipeId": "minecraft:crafting_table"
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "type": "text",
+          "title": "Auto-Generated Titles",
+          "text": "Notice that the showcase and recipe sections above don't have explicit titles - they're automatically generated from the item names! This makes documentation much easier to write.\n\nThe auto-generation system works for all section types, including [[entry:crafting_table:recipes]], [[entry:furnace:showcases]], and [[entry:smithing_table:other content types]]. This feature reduces the need to manually specify titles while maintaining professional-looking documentation."
+        },
+        {
+          "type": "showcase",
+          "items": ["minecraft:diamond_pickaxe"]
+        }
+      ]
+    }
+  ]
+}

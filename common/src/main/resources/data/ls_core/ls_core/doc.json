@@ -1,0 +1,12 @@
+{
+  "title": "doc.ls_core.title",
+  "description": "doc.ls_core.desc",
+  "iconType": "ITEM",
+  "icon": "minecraft:book",
+  "tooltip": "doc.ls_core.tooltip",
+  "searchbar": true,
+  "useI18n": true,
+  "categoryOrder": ["getting_started", "crafting_systems", "features"]
+}
+
+

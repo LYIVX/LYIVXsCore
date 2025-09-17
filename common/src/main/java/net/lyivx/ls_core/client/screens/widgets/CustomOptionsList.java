@@ -23,7 +23,6 @@ import java.util.Optional;
 
 @Environment(EnvType.CLIENT)
 public class CustomOptionsList extends ContainerObjectSelectionList<CustomOptionsList.Entry> {
-    private static final int BIG_BUTTON_WIDTH = 310;
     private static final int DEFAULT_ITEM_HEIGHT = 25;
     private final OptionsSubScreen screen;
 
@@ -59,7 +58,8 @@ public class CustomOptionsList extends ContainerObjectSelectionList<CustomOption
     }
 
     public int getRowWidth() {
-        return BIG_BUTTON_WIDTH;
+        // Calculate dynamically based on available width
+        return (int)(this.width * 0.9); // 90% of available width
     }
 
     @Nullable
@@ -96,12 +96,15 @@ public class CustomOptionsList extends ContainerObjectSelectionList<CustomOption
         }
 
         public static OptionEntry big(Options options, OptionInstance<?> option, OptionsSubScreen screen) {
-            return new OptionEntry(ImmutableMap.of(option, option.createButton(options, 0, 0, BIG_BUTTON_WIDTH)), screen);
+            int width = screen.width - 155 - 20;  // Account for category width and padding
+            return new OptionEntry(ImmutableMap.of(option, option.createButton(options, 0, 0, width)), screen);
         }
 
-        public static OptionEntry small(Options options, OptionInstance<?> leftOption, @Nullable OptionInstance<?> rightOption, OptionsSubScreen screen) {
-            AbstractWidget abstractWidget = leftOption.createButton(options);
-            return rightOption == null ? new OptionEntry(ImmutableMap.of(leftOption, abstractWidget), screen) : new OptionEntry(ImmutableMap.of(leftOption, abstractWidget, rightOption, rightOption.createButton(options)), screen);
+        public static OptionEntry small(Options options, OptionInstance leftOption, @Nullable OptionInstance rightOption, OptionsSubScreen screen) {
+            AbstractWidget abstractWidget = leftOption.createButton(options, 0, 0, 150);
+            return rightOption == null ?
+                    new OptionEntry(ImmutableMap.of(leftOption, abstractWidget), screen) :
+                    new OptionEntry(ImmutableMap.of(leftOption, abstractWidget, rightOption, rightOption.createButton(options, 0, 0, 150)), screen);
         }
     }
 
@@ -120,15 +123,17 @@ public class CustomOptionsList extends ContainerObjectSelectionList<CustomOption
 
         @Override
         public void render(GuiGraphics guiGraphics, int index, int top, int left, int width, int height, int mouseX, int mouseY, boolean hovering, float partialTick) {
-            guiGraphics.drawCenteredString(Minecraft.getInstance().font, this.title, left + width / 2, top + 5, 0xFFFFFF);
+            int textWidth = Minecraft.getInstance().font.width(this.title);
+            int x = left + (width - textWidth) / 2;
+            guiGraphics.drawString(Minecraft.getInstance().font, this.title, x, top + 5, 0xFFFFFF);
         }
     }
 
     @Environment(EnvType.CLIENT)
-    protected static class Entry extends ContainerObjectSelectionList.Entry<Entry> {
+    public static class Entry extends ContainerObjectSelectionList.Entry<Entry> {
         private final List<AbstractWidget> children;
         private final Screen screen;
-        private static final int X_OFFSET = 160;
+        protected final Minecraft minecraft = Minecraft.getInstance();
 
         Entry(List<AbstractWidget> children, Screen screen) {
             this.children = ImmutableList.copyOf(children);
@@ -140,17 +145,22 @@ public class CustomOptionsList extends ContainerObjectSelectionList<CustomOption
         }
 
         public static Entry small(AbstractWidget leftOption, @Nullable AbstractWidget rightOption, Screen screen) {
-            return rightOption == null ? new Entry(ImmutableList.of(leftOption), screen) : new Entry(ImmutableList.of(leftOption, rightOption), screen);
+            return rightOption == null ?
+                    new Entry(ImmutableList.of(leftOption), screen) :
+                    new Entry(ImmutableList.of(leftOption, rightOption), screen);
         }
 
         public void render(GuiGraphics guiGraphics, int index, int top, int left, int width, int height, int mouseX, int mouseY, boolean hovering, float partialTick) {
-            int i = 80;
-            int j = this.screen.width / 2 - 155;
+            int totalWidth = width - 20; // 10px padding on each side
+            int widgetWidth = this.children.size() > 1 ? totalWidth / 2 - 10 : totalWidth;
 
-            for (AbstractWidget abstractWidget : this.children) {
-                abstractWidget.setPosition(j + i, top + 3);
-                abstractWidget.render(guiGraphics, mouseX, mouseY, partialTick);
-                i += X_OFFSET;
+            int x = left + 10; // Start with padding
+
+            for (AbstractWidget widget : this.children) {
+                widget.setWidth(widgetWidth);
+                widget.setPosition(x, top + 3);
+                widget.render(guiGraphics, mouseX, mouseY, partialTick);
+                x += widgetWidth + 20; // Add spacing between widgets
             }
         }
 
@@ -161,5 +171,13 @@ public class CustomOptionsList extends ContainerObjectSelectionList<CustomOption
         public List<? extends NarratableEntry> narratables() {
             return this.children;
         }
+    }
+
+    @Override
+    protected void renderListBackground(GuiGraphics guiGraphics) {
+    }
+
+    @Override
+    protected void renderListSeparators(GuiGraphics guiGraphics) {
     }
 }

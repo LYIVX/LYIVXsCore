@@ -4,6 +4,7 @@ import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiGraphics;
 import net.minecraft.client.gui.components.AbstractButton;
 import net.minecraft.client.gui.narration.NarrationElementOutput;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
 
@@ -38,7 +39,7 @@ public class CustomCheckbox extends AbstractButton {
             texture = this.isHovered() ? CHECKBOX_HIGHLIGHTED : CHECKBOX;
         }
 
-        guiGraphics.blit(texture, this.getX(), this.getY(), 0, 0, this.width, this.height, this.width, this.height);
+        guiGraphics.blit(RenderType::guiTextured, texture, this.getX(), this.getY(), 0f, 0f, this.width, this.height, this.width, this.height);
         guiGraphics.drawString(minecraft.font, this.getMessage(), this.getX() + this.width + 4, this.getY() + (this.height - 8) / 2, 14737632);
     }
 

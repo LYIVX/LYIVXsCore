@@ -7,10 +7,6 @@ architectury {
     neoForge()
 }
 
-loom {
-    accessWidenerPath = project(":common").loom.accessWidenerPath
-}
-
 configurations {
     common
     shadowCommon // Don't use shadow from the shadow plugin because we don't want IDEA to index this.
@@ -25,9 +21,11 @@ dependencies {
 
     include modApi("com.teamresourceful.resourcefullib:resourcefullib-neoforge-$rootProject.resourcefullib_version")
 
-    modCompileOnlyApi("mezz.jei:jei-${minecraft_version}-common-api:${jei_version}")
-    modCompileOnlyApi("mezz.jei:jei-${minecraft_version}-neoforge-api:${jei_version}")
-    modRuntimeOnly("mezz.jei:jei-${minecraft_version}-neoforge:${jei_version}")
+    modRuntimeOnly("curse.maven:furnection-914878:6928766")
+
+    //modCompileOnlyApi("mezz.jei:jei-1.21.1-common-api:${jei_version}")
+    //modCompileOnlyApi("mezz.jei:jei-1.21.1-neoforge-api:${jei_version}")
+    //modRuntimeOnly("mezz.jei:jei-1.21.1-neoforge:${jei_version}")
 
     common(project(path: ":common", configuration: "namedElements")) { transitive false }
     shadowCommon(project(path: ":common", configuration: "transformProductionNeoForge")) { transitive = false }

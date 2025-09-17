@@ -1,0 +1,54 @@
+{
+  "category": "getting_started",
+  "title": "Welcome to Minecraft Crafting",
+  "iconType": "ITEM",
+  "icon": "minecraft:paper",
+  "pages": [
+    {
+      "sections": [
+        { 
+          "type": "showcase", 
+          "title": "Welcome to Minecraft",
+          "items": ["minecraft:crafting_table"]
+        },
+        { 
+          "type": "text", 
+          "title": "Getting Started with Crafting",
+          "text": "Welcome to the comprehensive guide to Minecraft's crafting systems! This documentation will help you understand how to create, process, and enhance items throughout your Minecraft journey.\n\nCrafting is the foundation of Minecraft gameplay, allowing you to transform raw materials into tools, weapons, buildings, and magical items. From your first [[entry:crafting_table:crafting table]] to advanced [[entry:brewing_stand:potion brewing]], each crafting station opens new possibilities.\n\nThis guide is organized into logical categories that follow the natural progression of a Minecraft player. Start with the [[category:getting_started:Getting Started]] section to learn the basics, then explore the [[category:crafting_systems:Crafting Systems]] to master all the different crafting stations."
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "type": "text",
+          "title": "Essential Crafting Stations",
+          "text": "The [[entry:crafting_table:Crafting Table]] is your first major crafting milestone, expanding your crafting grid from 2x2 to 3x3. This unlocks the ability to create complex items like tools, weapons, and advanced blocks.\n\nThe [[entry:furnace:Furnace]] is essential for smelting ores into ingots and cooking food. It's the foundation of material processing and is required for creating metal tools and other refined materials.\n\nAs you progress, you'll unlock specialized stations like the [[entry:smoker:Smoker]] for fast food processing, the [[entry:blast_furnace:Blast Furnace]] for rapid ore smelting, and the [[entry:smithing_table:Smithing Table]] for upgrading equipment to netherite."
+        },
+        {
+          "type": "recipe",
+          "title": "Crafting Table Recipe",
+          "recipeType": "crafting",
+          "recipeId": "minecraft:crafting_table"
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "Advanced Crafting Systems",
+          "text": "Beyond basic crafting and smelting, Minecraft offers several specialized systems that unlock advanced capabilities. The [[entry:brewing_stand:Brewing Stand]] allows you to create powerful potions and magical effects, while the [[entry:stonecutter:Stonecutter]] provides efficient access to architectural elements.\n\nEach crafting system serves a specific purpose and integrates with the others to create a comprehensive progression system. Understanding how these systems work together is key to mastering Minecraft's crafting mechanics.\n\nFor a complete overview of all crafting systems and how they interconnect, check out the [[entry:crafting_systems_overview:Minecraft Crafting Systems]] guide. This comprehensive entry explains the relationships between different crafting stations and provides strategic advice for organizing your workshop."
+        },
+        { 
+          "type": "link", 
+          "linkType": "entry", 
+          "linkTarget": "crafting_systems_overview", 
+          "linkLabel": "Complete Crafting Systems Guide" 
+        }
+      ]
+    }
+  ]
+}
+
+

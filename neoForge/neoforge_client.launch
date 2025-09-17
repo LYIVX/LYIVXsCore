@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/neoforge"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="MOD_CLASSES" value="main%%E:\WorkSpaces\LYIVXsCore 1.21.4\neoforge\build\resources\main;main%%E:\WorkSpaces\LYIVXsCore 1.21.4\neoforge\build\classes\java\main"/>
+    </mapAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="dev.architectury.transformer.TransformerRuntime"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value=""/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="neoforge"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dfabric.dli.config=E:\WorkSpaces\LYIVXsCore@@00201.21.4\neoforge\.gradle\loom-cache\launch.cfg -Dfabric.dli.env=client -p C:\Users\tommy\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\3.0.8\c0ef95cecd8699a0449053ac7d9c160748d902cd\securejarhandler-3.0.8.jar;C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.7\e86dda4696d3c185fcc95d8d311904e7ce38a53f\asm-commons-9.7.jar;C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.7\c0655519f24d92af2202cb681cd7c1569df6ead6\asm-util-9.7.jar;C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.7\e4a258b7eb96107106c0599f0061cfc1832fe07a\asm-analysis-9.7.jar;C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.7\e446a17b175bfb733b87c5c2560ccb4e57d69f1a\asm-tree-9.7.jar;C:\Users\tommy\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.7\73d7b3086e14beb604ced229c302feff6449723\asm-9.7.jar;C:\Users\tommy\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.1\78f59f89defcd032ed788b151ca6a0d40ace796a\JarJarFileSystems-0.4.1.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Dfabric.dli.main=cpw.mods.bootstraplauncher.BootstrapLauncher &quot;-Darchitectury.main.class=E:\WorkSpaces\LYIVXsCore 1.21.4\neoforge\.gradle\architectury\.main_class&quot; &quot;-Darchitectury.runtime.transformer=E:\WorkSpaces\LYIVXsCore 1.21.4\neoforge\.gradle\architectury\.transforms&quot; &quot;-Darchitectury.properties=E:\WorkSpaces\LYIVXsCore 1.21.4\neoforge\.gradle\architectury\.properties&quot; -Djdk.attach.allowAttachSelf=true &quot;-javaagent:E:\WorkSpaces\LYIVXsCore 1.21.4\.gradle\architectury\architectury-transformer-agent.jar&quot;"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="${workspace_loc:neoforge}/run"/>
+</launchConfiguration>

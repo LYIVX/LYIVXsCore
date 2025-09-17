@@ -1,0 +1,51 @@
+{
+  "category": "crafting_systems",
+  "title": "Smoker",
+  "iconType": "BLOCK",
+  "icon": "minecraft:smoker",
+  "pages": [
+    {
+      "sections": [
+        { 
+          "type": "text", 
+          "title": "Specialized Food Processing",
+          "text": "The [[entry:smoker:Smoker]] is a specialized cooking station that excels at processing food items. While it can only smelt food-related items, it does so at twice the speed of a regular [[entry:furnace:furnace]], making it the ideal choice for players who need to cook large quantities of food quickly.\n\nThis block is particularly useful for players who rely heavily on food for survival, especially in challenging environments where food poisoning from raw meat can be deadly. The smoker can process [[entry:smoker:raw meat]], [[entry:smoker:raw fish]], and other food items into their cooked, nutritious forms.\n\nThe smoker operates on the same principle as a furnace - it requires fuel in the bottom slot and food items in the top slot. However, its specialized design means it cannot process ores or other non-food materials, making it a dedicated food processing station rather than a general-purpose smelter."
+        },
+        { 
+          "type": "showcase", 
+          "items": ["minecraft:smoker"] 
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Smoker Recipe",
+          "recipeType": "crafting", 
+          "recipeId": "minecraft:smoker" 
+        },
+        { 
+          "type": "text", 
+          "title": "Smoker Operation",
+          "text": "To use a smoker, right-click on it to open the cooking interface. Place food items in the top slot and fuel in the bottom slot. The smoker will process food items twice as fast as a regular furnace, making it perfect for cooking large batches of food.\n\nCommon foods that can be processed in a smoker include [[entry:smoker:beef]], [[entry:smoker:porkchop]], [[entry:smoker:chicken]], [[entry:smoker:rabbit]], [[entry:smoker:mutton]], and various types of [[entry:smoker:fish]]. The smoker is especially valuable for players who hunt or fish frequently, as it quickly converts raw catches into safe, nutritious meals.\n\nLike the furnace, the smoker accepts various fuel types including [[entry:smoker:coal]], [[entry:smoker:charcoal]], [[entry:smoker:wood]], and [[entry:smoker:blaze rods]]. The speed advantage makes it worth the extra materials required to craft it."
+        }
+      ]
+    },
+    {
+      "sections": [
+        { 
+          "type": "recipe", 
+          "title": "Example: Cooked Beef Smoking",
+          "recipeType": "smoking", 
+          "recipeId": "minecraft:cooked_beef_from_smoking" 
+        },
+        { 
+          "type": "text", 
+          "title": "Advanced Food Processing",
+          "text": "The smoker is part of a trio of specialized cooking stations, each optimized for different types of processing. While the smoker handles food, the [[entry:blast_furnace:Blast Furnace]] processes ores and metal items, and the regular [[entry:furnace:Furnace]] can handle both food and ores.\n\nFor players building automated food production systems, the smoker's speed advantage makes it an excellent choice. Many players set up [[entry:smoker:automated cooking systems]] using [[entry:smoker:hoppers]] to continuously feed raw food and fuel, creating a steady supply of cooked meals.\n\nThe smoker is particularly valuable in survival situations where food poisoning can be deadly. By quickly converting raw meat into safe, nutritious food, it helps players maintain their health and hunger levels during extended exploration or combat encounters.\n\nConsider building multiple smokers if you frequently process large quantities of food, as this will significantly speed up your food preparation workflow and allow you to focus on other aspects of survival and building."
+        }
+      ]
+    }
+  ]
+}

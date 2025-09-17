@@ -5,7 +5,6 @@ import dev.architectury.injectables.annotations.ExpectPlatform;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 
-import net.lyivx.ls_core.common.keybinds.ModConfigKeybind;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.multiplayer.ClientLevel;
 import net.minecraft.client.renderer.RenderType;
@@ -26,8 +25,6 @@ import org.jetbrains.annotations.NotNull;
 public class LYIVXsCoreClient {
 
     public static void init() {
-        ModConfigKeybind.registerKeybinding();
-        ClientTickEvent.CLIENT_POST.register(client -> ModConfigKeybind.checkKeybinding());
     }
 
     @ExpectPlatform
