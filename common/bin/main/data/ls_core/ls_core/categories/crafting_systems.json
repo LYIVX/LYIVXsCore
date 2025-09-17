@@ -1,8 +1,0 @@
-{
-  "id": "crafting_systems",
-  "title": "Crafting Systems",
-  "description": "Master all of Minecraft's crafting systems, from basic crafting tables to advanced brewing stands and smithing tables.",
-  "iconType": "BLOCK",
-  "icon": "minecraft:crafting_table",
-  "sortOrder": 2
-}
